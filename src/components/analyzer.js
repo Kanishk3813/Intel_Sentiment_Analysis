@@ -4,10 +4,9 @@ import ReviewList from './ReviewList';
 import ProductDetails from './productdetails';
 import ClipLoader from 'react-spinners/ClipLoader';
 import EDA from './eda';
-import { FaSearch } from 'react-icons/fa';
-import Footer from './footer';
-import { FaArrowLeft } from 'react-icons/fa';
+import { FaSearch, FaArrowLeft } from 'react-icons/fa';
 import { useNavigate } from 'react-router-dom';
+import RecentlyAnalyzedData from './storedata';
 
 function AnalyzerPage() {
   const [url, setUrl] = useState('');
@@ -16,6 +15,9 @@ function AnalyzerPage() {
   const [loading, setLoading] = useState(false);
   const [source, setSource] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
+  const [recentAnalyses, setRecentAnalyses] = useState([]);
+  const [recentCurrentPage, setRecentCurrentPage] = useState(1);
+  const [showRecentData, setShowRecentData] = useState(false);
   const reviewsPerPage = 5;
   const navigate = useNavigate();
 
@@ -51,68 +53,104 @@ function AnalyzerPage() {
     }
   };
 
+  const handleFetchRecentAnalyses = async () => {
+    try {
+      const response = await axios.get('http://localhost:5000/recent');
+      setRecentAnalyses(response.data);
+      setRecentCurrentPage(1);  // Reset recent analyses page to 1
+      setShowRecentData(true);  // Show the recently analyzed data page
+    } catch (error) {
+      console.error("There was an error fetching the recent analyses!", error);
+    }
+  };
+
+  const handleClearRecentData = () => {
+    setRecentAnalyses([]);
+  };
+
   const paginate = (pageNumber) => setCurrentPage(pageNumber);
+  const paginateRecent = (pageNumber) => setRecentCurrentPage(pageNumber);
 
   return (
     <>
-      <div className="min-h-screen bg-gray-100 py-10"
-      style={{ backgroundImage: `url(/bg-1.jpg)`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
-        <div className="max-w-4xl mx-auto bg-white p-8 shadow-md rounded-lg">
-        <button
-            onClick={() => navigate('/')}
-            className="text-gray-700 hover:text-gray-900 mb-4 flex items-center"
-          >
-            <FaArrowLeft className="mr-2" /> Back
-          </button>
-        <h1 className="text-3xl font-bold text-center mb-8">
-            <FaSearch className="inline-block mr-2" /> Review Analyzer
-          </h1>
-          <form onSubmit={handleSubmit} className="flex flex-col space-y-4">
-            <input
-              type="text"
-              value={url}
-              onChange={(e) => setUrl(e.target.value)}
-              placeholder="Enter URL"
-              className="p-2 border border-gray-300 rounded"
-            />
-            <button type="submit" className={`px-4 py-2 text-white rounded ${url ? 'bg-blue-500 hover:bg-blue-600' : 'bg-blue-300 cursor-not-allowed'}`} 
-              disabled={!url}>
-              Extract and Analyze
+      {showRecentData ? (
+        <RecentlyAnalyzedData
+          recentAnalyses={recentAnalyses}
+          recentCurrentPage={recentCurrentPage}
+          reviewsPerPage={reviewsPerPage}
+          paginateRecent={paginateRecent}
+          goBack={() => setShowRecentData(false)}
+          clearRecentData={handleClearRecentData}
+        />
+      ) : (
+        <div className="min-h-screen bg-gray-100 py-10"
+          style={{ backgroundImage: `url(/bg-1.jpg)`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
+          <div className="max-w-4xl mx-auto bg-white p-8 shadow-md rounded-lg">
+            <div className="flex justify-between mb-4">
+            <button
+              onClick={() => navigate('/')}
+              className="text-gray-700 hover:text-gray-900 mb-4 flex items-center"
+            >
+              <FaArrowLeft className="mr-2" /> Back
             </button>
-          </form>
-          {loading ? (
-            <div className="flex justify-center items-center mt-5">
-              <ClipLoader color="#4fa94d" loading={loading} size={50} />
+            <button
+              onClick={handleFetchRecentAnalyses}
+              className="mt-4 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 text-end"
+            >
+              Recently Analyzed Data
+            </button>
             </div>
-          ) : (
-            <>
-              {source && <p className="text-center mt-4">Source: {source}</p>}
-              {product && <ProductDetails product={product} />}
-              {reviews.length > 0 && (
-                <>
-                  <ReviewList
-                    reviews={reviews}
-                    currentPage={currentPage}
-                    reviewsPerPage={reviewsPerPage}
-                    totalReviews={reviews.length}
-                    paginate={paginate}
-                  />
-                  <EDA reviews={reviews} />
-                  <div className="flex justify-center mt-4">
-                    <button
-                      onClick={handleDownloadJSON}
-                      className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
-                    >
-                      Download JSON
-                    </button>
-                  </div>
-                </>
-              )}
-            </>
-          )}
+            <h1 className="text-3xl font-bold text-center mb-8">
+              <FaSearch className="inline-block mr-2" /> Review Analyzer
+            </h1>
+            <form onSubmit={handleSubmit} className="flex flex-col space-y-4">
+              <input
+                type="text"
+                value={url}
+                onChange={(e) => setUrl(e.target.value)}
+                placeholder="Enter URL"
+                className="p-2 border border-gray-300 rounded"
+              />
+              <button type="submit" className={`px-4 py-2 text-white rounded ${url ? 'bg-blue-500 hover:bg-blue-600' : 'bg-blue-300 cursor-not-allowed'}`} 
+                disabled={!url}>
+                Extract and Analyze
+              </button>
+            </form>
+            {loading ? (
+              <div className="flex justify-center items-center mt-5">
+                <ClipLoader color="#4fa94d" loading={loading} size={50} />
+              </div>
+            ) : (
+              <>
+                {source && <p className="text-center mt-4">Source: {source}</p>}
+                {product && <ProductDetails product={product} />}
+                {reviews.length > 0 && (
+                  <>
+                    <ReviewList
+                      reviews={reviews}
+                      currentPage={currentPage}
+                      reviewsPerPage={reviewsPerPage}
+                      totalReviews={reviews.length}
+                      paginate={paginate}
+                      showProductName={false}
+                    />
+                    <EDA reviews={reviews} />
+                    <div className="flex justify-center mt-4">
+                      <button
+                        onClick={handleDownloadJSON}
+                        className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+                      >
+                        Download JSON
+                      </button>
+                    </div>
+                  </>
+                )}
+              </>
+            )}
+          </div>
+          {/* <Footer />  */}
         </div>
-        {/* <Footer />  */}
-      </div>
+      )}
     </>
   );
 }

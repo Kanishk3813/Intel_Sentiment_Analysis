@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 
-const ReviewList = ({ reviews, currentPage, reviewsPerPage, totalReviews, paginate }) => {
+const ReviewList = ({ reviews, currentPage, reviewsPerPage, totalReviews, paginate, showProductName }) => {
   const indexOfLastReview = currentPage * reviewsPerPage;
   const indexOfFirstReview = indexOfLastReview - reviewsPerPage;
   const currentReviews = reviews.slice(indexOfFirstReview, indexOfLastReview);
@@ -13,6 +13,11 @@ const ReviewList = ({ reviews, currentPage, reviewsPerPage, totalReviews, pagina
     <div className="mt-8">
       {currentReviews.map((review, index) => (
         <div key={index} className="bg-white p-6 shadow-md rounded-lg mb-8">
+          {showProductName && (
+            <div className="mb-4">
+              <h3 className="font-bold">Product: {review.product}</h3>
+            </div>
+          )}
           <h2 className="text-2xl font-bold mb-4">{review.title}</h2>
           <div className="mb-4">
             <p className="text-sm text-gray-600 mb-2"><strong>Author:</strong> {review.author}</p>

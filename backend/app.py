@@ -11,6 +11,7 @@ from io import StringIO
 from suggestions import improvement_suggestions
 from dotenv import load_dotenv
 import os
+from collections import deque
 
 load_dotenv()
 
@@ -26,6 +27,9 @@ tokenizer = BertTokenizer.from_pretrained(model_path)
 # Load spacy model for sentence splitting
 nlp = spacy.load("en_core_web_sm")
 
+# In-memory store for recent analyses (max 10 items)
+recent_analyses = deque(maxlen=10)
+
 def scrape_with_scraperapi(url):
     params = {'api_key': SCRAPER_API_KEY, 'url': url, 'render': 'true'}
     response = requests.get('https://api.scraperapi.com', params=params)
@@ -39,7 +43,7 @@ def extract_reviews(url):
         return reviews
 
     soup = bs4.BeautifulSoup(webpage_content, "html.parser")
-    
+
     if "amazon" in url:
         # Amazon CSS Selectors
         review_blocks = soup.select('div.a-row div.a-section.celwidget')
@@ -50,7 +54,7 @@ def extract_reviews(url):
         product_name_elem = soup.select_one('div.Vu3-9u')
 
     product_name = product_name_elem.text.strip() if product_name_elem else "Unknown Product"
-    
+
     for review in review_blocks:
         if "amazon" in url:
             title_elem = review.select_one('a.a-size-base span:nth-of-type(2)')
@@ -158,8 +162,25 @@ def extract_and_analyze():
             'neutral_parts': highlighted_parts['neutral_parts'],
             'improvements': highlighted_parts['improvements']
         })
+    
+    # Store the analysis results in the recent analyses
+    recent_analyses.append({
+        'product': product_name,
+        'source': source,
+        'reviews': analysis
+    })
+
     print(f"Analysis complete for {len(reviews)} reviews")
     return jsonify({'product': product_name, 'source': source, 'reviews': analysis})
+
+@app.route('/recent', methods=['GET'])
+def get_recent_analyses():
+    return jsonify(list(recent_analyses))
+
+@app.route('/recent/clear', methods=['POST'])
+def clear_recent_analyses():
+    recent_analyses.clear()
+    return jsonify({"message": "Recent analyses cleared."})
 
 @app.route('/download_json', methods=['POST'])
 def download_json():
