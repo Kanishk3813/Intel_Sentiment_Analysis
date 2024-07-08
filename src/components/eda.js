@@ -3,7 +3,6 @@ import { Line } from 'react-chartjs-2';
 import { Chart as ChartJS } from 'chart.js/auto';
 
 const EDA = ({ reviews }) => {
-  // Extracting the dates and sentiments for trend analysis
   const dates = reviews.map(review => review.date);
   const sentiments = reviews.map(review => review.sentiment);
 

@@ -14,7 +14,7 @@ function AnalyzerPage() {
   const [product, setProduct] = useState('');
   const [reviews, setReviews] = useState([]);
   const [loading, setLoading] = useState(false);
-  const [source, setSource] = useState(''); // New state for source
+  const [source, setSource] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
   const reviewsPerPage = 5;
   const navigate = useNavigate();
@@ -27,9 +27,9 @@ function AnalyzerPage() {
       const response = await axios.post('http://localhost:5000/extract', { url });
       console.log("Response received:", response.data);
       setProduct(response.data.product);
-      setSource(response.data.source); // Update source based on response
+      setSource(response.data.source);
       setReviews(response.data.reviews);
-      setCurrentPage(1); // Reset to first page on new search
+      setCurrentPage(1);
     } catch (error) {
       console.error("There was an error extracting the reviews!", error);
     } finally {
@@ -51,7 +51,6 @@ function AnalyzerPage() {
     }
   };
 
-  // Change page
   const paginate = (pageNumber) => setCurrentPage(pageNumber);
 
   return (

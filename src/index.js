@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Home from './components/homepage'; // Make sure this component exists
-import Analyze from './components/analyzer'; // Make sure this component exists
+import Home from './components/homepage';
+import Analyze from './components/analyzer';
 
 ReactDOM.render(
   <React.StrictMode>

@@ -12,7 +12,6 @@ from suggestions import improvement_suggestions
 from dotenv import load_dotenv
 import os
 
-# Load environment variables from .env file
 load_dotenv()
 
 app = Flask(__name__)
@@ -93,7 +92,6 @@ def analyze_review(text):
     sentiment = torch.argmax(probabilities, dim=1).item()
     sentiment_map = {0: 'Negative', 1: 'Neutral', 2: 'Positive'}
     
-    # Format probabilities to two decimal places
     probabilities = probabilities.squeeze().tolist()
     formatted_probabilities = {
         'Negative': f"{probabilities[0]:.2f}",
@@ -139,7 +137,7 @@ def extract_and_analyze():
     source = "Amazon" if "amazon" in url else "Flipkart"
     
     reviews = extract_reviews(url)
-    product_name = reviews[0]['product'] if reviews else "Unknown Product"  # Assuming all reviews are for the same product
+    product_name = reviews[0]['product'] if reviews else "Unknown Product"
     analysis = []
     for review in reviews:
         sentiment, probabilities = analyze_review(review['content'])
@@ -168,10 +166,8 @@ def download_json():
     data = request.json
     reviews = data.get('reviews', [])
     
-    # Create JSON file in memory
     json_file = json.dumps(reviews)
     
-    # Send JSON file as response
     return Response(json_file, mimetype='application/json', headers={'Content-Disposition':'attachment;filename=reviews.json'})
 
 if __name__ == '__main__':
