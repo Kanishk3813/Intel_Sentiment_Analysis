@@ -1,0 +1,35 @@
+/* src/fonts.css */
+@font-face {
+    font-family: 'Benett';
+    src: url('./fonts/Benett-regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Benett';
+    src: url('./fonts/Benett-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Benett';
+    src: url('./fonts/Benett-Round.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

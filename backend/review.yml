@@ -1,0 +1,38 @@
+product_title:
+    css: 'h1.a-size-large a.a-link-normal'
+    xpath: null
+    type: Text
+reviews:
+    css: 'div.a-row div.a-section.celwidget'
+    xpath: null
+    multiple: true
+    type: Text
+    children:
+        title:
+            css: 'a.a-size-base span:nth-of-type(2)'
+            xpath: null
+            type: Text
+        content:
+            css: 'div.a-row.a-spacing-small span.a-size-base span'
+            xpath: null
+            type: Text
+        date:
+            css: span.a-size-base.a-color-secondary
+            xpath: null
+            type: Text
+        author:
+            css: span.a-profile-name
+            xpath: null
+            type: Text
+        rating:
+            css: i.a-icon-star span
+            xpath: null
+            type: Text
+        verified:
+            css: span.a-size-mini
+            xpath: null
+            type: Text
+next_page:
+    css: 'li.a-last a'
+    xpath: null
+    type: Text
