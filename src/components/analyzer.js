@@ -18,6 +18,9 @@ function AnalyzerPage() {
   const [recentAnalyses, setRecentAnalyses] = useState([]);
   const [recentCurrentPage, setRecentCurrentPage] = useState(1);
   const [showRecentData, setShowRecentData] = useState(false);
+  const [maxReviews, setMaxReviews] = useState(25);
+  const [wordcloudImage, setWordcloudImage] = useState(null);
+  const [sentimentType, setSentimentType] = useState('all');
   const reviewsPerPage = 5;
   const navigate = useNavigate();
 
@@ -26,7 +29,7 @@ function AnalyzerPage() {
     setLoading(true);
     console.log("Form submitted with URL:", url);
     try {
-      const response = await axios.post('http://localhost:5000/extract', { url });
+      const response = await axios.post('http://localhost:5000/extract', { url, max_reviews: maxReviews });
       console.log("Response received:", response.data);
       setProduct(response.data.product);
       setSource(response.data.source);
@@ -57,8 +60,8 @@ function AnalyzerPage() {
     try {
       const response = await axios.get('http://localhost:5000/recent');
       setRecentAnalyses(response.data);
-      setRecentCurrentPage(1);  // Reset recent analyses page to 1
-      setShowRecentData(true);  // Show the recently analyzed data page
+      setRecentCurrentPage(1);
+      setShowRecentData(true);
     } catch (error) {
       console.error("There was an error fetching the recent analyses!", error);
     }
@@ -66,6 +69,16 @@ function AnalyzerPage() {
 
   const handleClearRecentData = () => {
     setRecentAnalyses([]);
+  };
+
+  const handleGenerateWordcloud = async (sentimentType) => {
+    try {
+      const response = await axios.post('http://localhost:5000/generate_wordcloud', { reviews, sentiment_type: sentimentType }, { responseType: 'blob' });
+      const url = window.URL.createObjectURL(new Blob([response.data]));
+      setWordcloudImage(url);
+    } catch (error) {
+      console.error("There was an error generating the word cloud!", error);
+    }
   };
 
   const paginate = (pageNumber) => setCurrentPage(pageNumber);
@@ -87,18 +100,18 @@ function AnalyzerPage() {
           style={{ backgroundImage: `url(/bg-1.jpg)`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
           <div className="max-w-4xl mx-auto bg-white p-8 shadow-md rounded-lg">
             <div className="flex justify-between mb-4">
-            <button
-              onClick={() => navigate('/')}
-              className="text-gray-700 hover:text-gray-900 mb-4 flex items-center"
-            >
-              <FaArrowLeft className="mr-2" /> Back
-            </button>
-            <button
-              onClick={handleFetchRecentAnalyses}
-              className="mt-4 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 text-end"
-            >
-              Recently Analyzed Data
-            </button>
+              <button
+                onClick={() => navigate('/')}
+                className="text-gray-700 hover:text-gray-900 mb-4 flex items-center"
+              >
+                <FaArrowLeft className="mr-2" /> Back
+              </button>
+              <button
+                onClick={handleFetchRecentAnalyses}
+                className="mt-4 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 text-end"
+              >
+                Recently Analyzed Data
+              </button>
             </div>
             <h1 className="text-3xl font-bold text-center mb-8">
               <FaSearch className="inline-block mr-2" /> Review Analyzer
@@ -111,6 +124,16 @@ function AnalyzerPage() {
                 placeholder="Enter URL"
                 className="p-2 border border-gray-300 rounded"
               />
+              <select
+                value={maxReviews}
+                onChange={(e) => setMaxReviews(Number(e.target.value))}
+                className="p-2 border border-gray-300 rounded"
+              >
+                <option value={25}>25 reviews</option>
+                <option value={50}>50 reviews</option>
+                <option value={75}>75 reviews</option>
+                <option value={100}>100 reviews</option>
+              </select>
               <button type="submit" className={`px-4 py-2 text-white rounded ${url ? 'bg-blue-500 hover:bg-blue-600' : 'bg-blue-300 cursor-not-allowed'}`} 
                 disabled={!url}>
                 Extract and Analyze
@@ -135,6 +158,37 @@ function AnalyzerPage() {
                       showProductName={false}
                     />
                     <EDA reviews={reviews} />
+                    <div className="flex justify-center mt-4 space-x-4">
+                      <button
+                        onClick={() => handleGenerateWordcloud('all')}
+                        className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+                      >
+                        Generate Wordcloud (All)
+                      </button>
+                      <button
+                        onClick={() => handleGenerateWordcloud('positive')}
+                        className="px-4 py-2 bg-green-500 text-white rounded hover:bg-green-600"
+                      >
+                        Generate Wordcloud (Positive)
+                      </button>
+                      <button
+                        onClick={() => handleGenerateWordcloud('neutral')}
+                        className="px-4 py-2 bg-yellow-500 text-white rounded hover:bg-yellow-600"
+                      >
+                        Generate Wordcloud (Neutral)
+                      </button>
+                      <button
+                        onClick={() => handleGenerateWordcloud('negative')}
+                        className="px-4 py-2 bg-red-500 text-white rounded hover:bg-red-600"
+                      >
+                        Generate Wordcloud (Negative)
+                      </button>
+                    </div>
+                    {wordcloudImage && (
+                      <div className="flex justify-center mt-4">
+                        <img src={wordcloudImage} alt="Wordcloud" className="w-full h-auto" />
+                      </div>
+                    )}
                     <div className="flex justify-center mt-4">
                       <button
                         onClick={handleDownloadJSON}

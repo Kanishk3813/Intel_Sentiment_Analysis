@@ -10,6 +10,10 @@ const HomePage = () => {
     navigate('/analyze');
   };
 
+  const navigateToPastTrends = () => {
+    navigate('/pasttrends');
+  };
+
   return (
     <div 
       className="relative min-h-screen flex flex-col justify-center" 
@@ -26,12 +30,20 @@ const HomePage = () => {
             <img src="/home-gif.gif" alt="Loading GIF" className="w-64 lg:w-96 h-64 lg:h-96" />
           </div>
         </div>
-        <button
-          onClick={navigateToAnalyzer}
-          className="px-6 py-3 bg-blue-500 text-white rounded-full hover:bg-blue-600 transform transition duration-300 hover:scale-105 mt-4"
-        >
-          Try it out now
-        </button>
+        <div className="flex space-x-4 mt-4">
+          <button
+            onClick={navigateToAnalyzer}
+            className="px-6 py-3 bg-blue-500 text-white rounded-full hover:bg-blue-600 transform transition duration-300 hover:scale-105"
+          >
+            Try it out now
+          </button>
+          <button
+            onClick={navigateToPastTrends}
+            className="px-6 py-3 bg-green-500 text-white rounded-full hover:bg-green-600 transform transition duration-300 hover:scale-105"
+          >
+            View Past Trends
+          </button>
+        </div>
       </div>
       <div className="hidden lg:block">
         <Footer />

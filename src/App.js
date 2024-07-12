@@ -1,18 +1,18 @@
-import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import HomePage from './components/homepage';
 import AnalyzerPage from './components/analyzer';
-import './index.css';
+import PastTrends from './components/PastTrends';
 
-const App = () => {
+function App() {
   return (
     <Router>
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/analyzer" element={<AnalyzerPage />} />
+        <Route path="/analyze" element={<AnalyzerPage />} />
+        <Route path="/pasttrends" element={<PastTrends />} />
       </Routes>
     </Router>
   );
-};
+}
 
 export default App;

@@ -1,0 +1,1001 @@
+product,title,content,date,author,rating,url,sentiment
+Intel Xeon,Could be better,"This was a waste of money, very disappointed.",2022-07-21,Author5,1,http://example.com,negative
+Intel Xeon,Great product,"Just a decent product, nothing special.",2022-07-17,Author6,1,http://example.com,negative
+Intel Core i9,Terrible experience,"This product is amazing, highly recommend!",2024-06-14,Author1,3,http://example.com,neutral
+Intel Core i9,Great product,"Exceeded my expectations, very satisfied!",2023-10-03,Author1,5,http://example.com,positive
+Intel Celeron,Could be better,"This was a waste of money, very disappointed.",2024-02-09,Author4,1,http://example.com,negative
+Intel Celeron,Terrible experience,"It works okay, but has some issues.",2024-04-19,Author5,5,http://example.com,positive
+Intel Celeron,Not bad,"Exceeded my expectations, very satisfied!",2023-08-23,Author6,1,http://example.com,negative
+Intel Pentium,Great product,"It works okay, but has some issues.",2023-02-08,Author3,2,http://example.com,negative
+Intel Xeon,Great product,"It works okay, but has some issues.",2024-03-15,Author1,3,http://example.com,neutral
+Intel Core i7,Decent,"It works okay, but has some issues.",2024-01-10,Author3,5,http://example.com,positive
+Intel Core i7,Very satisfied,"Not as good as I expected, but not terrible.",2024-02-10,Author2,3,http://example.com,neutral
+Intel Celeron,Great product,"This product is amazing, highly recommend!",2023-12-07,Author3,1,http://example.com,negative
+Intel Core i7,Not bad,"It works okay, but has some issues.",2022-10-23,Author4,2,http://example.com,negative
+Intel Core i7,Very satisfied,"Exceeded my expectations, very satisfied!",2022-11-13,Author5,2,http://example.com,negative
+Intel Core i5,Great product,"It works okay, but has some issues.",2022-11-16,Author4,3,http://example.com,neutral
+Intel Celeron,Great product,"Not as good as I expected, but not terrible.",2022-09-11,Author4,4,http://example.com,positive
+Intel Pentium,Great product,"It works okay, but has some issues.",2022-04-12,Author6,3,http://example.com,neutral
+Intel Xeon,Could be better,"Not as good as I expected, but not terrible.",2023-06-14,Author1,5,http://example.com,positive
+Intel Xeon,Great product,"It works okay, but has some issues.",2022-03-11,Author2,4,http://example.com,positive
+Intel Core i9,Decent,"This product is amazing, highly recommend!",2022-02-28,Author3,2,http://example.com,negative
+Intel Celeron,Great product,"Exceeded my expectations, very satisfied!",2024-07-19,Author2,4,http://example.com,positive
+Intel Celeron,Not bad,"Exceeded my expectations, very satisfied!",2022-12-15,Author1,3,http://example.com,neutral
+Intel Celeron,Terrible experience,"It works okay, but has some issues.",2022-12-12,Author4,4,http://example.com,positive
+Intel Pentium,Decent,"This was a waste of money, very disappointed.",2024-01-20,Author5,5,http://example.com,positive
+Intel Core i7,Very satisfied,"Not as good as I expected, but not terrible.",2022-08-10,Author5,2,http://example.com,negative
+Intel Celeron,Very satisfied,"This product is amazing, highly recommend!",2022-05-11,Author5,3,http://example.com,neutral
+Intel Core i7,Decent,"Just a decent product, nothing special.",2023-11-17,Author2,2,http://example.com,negative
+Intel Celeron,Could be better,"Just a decent product, nothing special.",2024-04-27,Author5,1,http://example.com,negative
+Intel Celeron,Terrible experience,"This product is amazing, highly recommend!",2022-12-12,Author3,4,http://example.com,positive
+Intel Core i7,Terrible experience,"This product is amazing, highly recommend!",2022-07-21,Author2,3,http://example.com,neutral
+Intel Core i5,Terrible experience,"Just a decent product, nothing special.",2022-04-06,Author5,3,http://example.com,neutral
+Intel Xeon,Not bad,"It works okay, but has some issues.",2023-03-31,Author1,4,http://example.com,positive
+Intel Xeon,Not bad,"This product is amazing, highly recommend!",2024-02-26,Author1,1,http://example.com,negative
+Intel Pentium,Decent,"Just a decent product, nothing special.",2022-12-06,Author6,3,http://example.com,neutral
+Intel Celeron,Decent,"Not as good as I expected, but not terrible.",2023-05-07,Author6,2,http://example.com,negative
+Intel Core i5,Not bad,"This product is amazing, highly recommend!",2022-03-03,Author4,5,http://example.com,positive
+Intel Core i7,Great product,"Exceeded my expectations, very satisfied!",2023-12-04,Author4,2,http://example.com,negative
+Intel Core i9,Terrible experience,"This was a waste of money, very disappointed.",2023-05-12,Author2,3,http://example.com,neutral
+Intel Core i7,Great product,"Just a decent product, nothing special.",2024-07-20,Author5,3,http://example.com,neutral
+Intel Pentium,Very satisfied,"This was a waste of money, very disappointed.",2022-05-05,Author4,4,http://example.com,positive
+Intel Core i5,Not bad,"This product is amazing, highly recommend!",2024-09-26,Author3,1,http://example.com,negative
+Intel Pentium,Decent,"This product is amazing, highly recommend!",2023-04-21,Author5,4,http://example.com,positive
+Intel Core i5,Could be better,"Exceeded my expectations, very satisfied!",2022-09-12,Author6,5,http://example.com,positive
+Intel Core i5,Great product,"This product is amazing, highly recommend!",2022-10-18,Author3,2,http://example.com,negative
+Intel Core i7,Very satisfied,"Not as good as I expected, but not terrible.",2024-09-15,Author3,5,http://example.com,positive
+Intel Pentium,Very satisfied,"Exceeded my expectations, very satisfied!",2023-09-20,Author5,4,http://example.com,positive
+Intel Core i7,Very satisfied,"Exceeded my expectations, very satisfied!",2022-08-29,Author4,4,http://example.com,positive
+Intel Core i7,Could be better,"Just a decent product, nothing special.",2022-06-10,Author1,3,http://example.com,neutral
+Intel Pentium,Great product,"This product is amazing, highly recommend!",2022-12-07,Author1,4,http://example.com,positive
+Intel Core i5,Decent,"Just a decent product, nothing special.",2024-05-06,Author6,2,http://example.com,negative
+Intel Core i7,Could be better,"This product is amazing, highly recommend!",2024-02-18,Author1,3,http://example.com,neutral
+Intel Core i5,Could be better,"Exceeded my expectations, very satisfied!",2023-06-08,Author4,4,http://example.com,positive
+Intel Core i9,Very satisfied,"This product is amazing, highly recommend!",2023-10-26,Author3,2,http://example.com,negative
+Intel Pentium,Could be better,"This product is amazing, highly recommend!",2023-03-04,Author2,4,http://example.com,positive
+Intel Xeon,Could be better,"Exceeded my expectations, very satisfied!",2022-11-01,Author3,5,http://example.com,positive
+Intel Core i5,Great product,"Not as good as I expected, but not terrible.",2022-01-18,Author3,4,http://example.com,positive
+Intel Xeon,Very satisfied,"Just a decent product, nothing special.",2022-04-13,Author2,1,http://example.com,negative
+Intel Celeron,Terrible experience,"It works okay, but has some issues.",2024-03-06,Author3,3,http://example.com,neutral
+Intel Celeron,Terrible experience,"This product is amazing, highly recommend!",2023-03-19,Author1,4,http://example.com,positive
+Intel Celeron,Very satisfied,"Exceeded my expectations, very satisfied!",2023-08-04,Author2,1,http://example.com,negative
+Intel Core i5,Could be better,"This product is amazing, highly recommend!",2024-03-03,Author4,4,http://example.com,positive
+Intel Celeron,Great product,"Exceeded my expectations, very satisfied!",2023-07-19,Author5,4,http://example.com,positive
+Intel Core i7,Decent,"It works okay, but has some issues.",2022-04-15,Author4,1,http://example.com,negative
+Intel Xeon,Decent,"Just a decent product, nothing special.",2022-04-04,Author3,4,http://example.com,positive
+Intel Core i9,Terrible experience,"Just a decent product, nothing special.",2023-08-27,Author5,3,http://example.com,neutral
+Intel Celeron,Not bad,"It works okay, but has some issues.",2024-07-11,Author1,1,http://example.com,negative
+Intel Pentium,Very satisfied,"Not as good as I expected, but not terrible.",2022-05-15,Author1,5,http://example.com,positive
+Intel Celeron,Terrible experience,"Just a decent product, nothing special.",2022-11-25,Author2,2,http://example.com,negative
+Intel Pentium,Terrible experience,"Exceeded my expectations, very satisfied!",2022-11-30,Author6,2,http://example.com,negative
+Intel Core i5,Great product,"This was a waste of money, very disappointed.",2023-11-13,Author1,4,http://example.com,positive
+Intel Celeron,Great product,"Just a decent product, nothing special.",2023-01-12,Author1,2,http://example.com,negative
+Intel Core i7,Not bad,"Just a decent product, nothing special.",2023-02-11,Author1,3,http://example.com,neutral
+Intel Core i5,Not bad,"This was a waste of money, very disappointed.",2022-08-26,Author6,1,http://example.com,negative
+Intel Xeon,Very satisfied,"It works okay, but has some issues.",2023-10-20,Author2,5,http://example.com,positive
+Intel Core i5,Could be better,"This product is amazing, highly recommend!",2024-06-22,Author2,1,http://example.com,negative
+Intel Core i5,Could be better,"It works okay, but has some issues.",2024-03-02,Author5,2,http://example.com,negative
+Intel Core i5,Decent,"This was a waste of money, very disappointed.",2022-01-12,Author2,3,http://example.com,neutral
+Intel Core i7,Not bad,"Exceeded my expectations, very satisfied!",2024-03-04,Author3,1,http://example.com,negative
+Intel Core i5,Could be better,"Not as good as I expected, but not terrible.",2023-12-15,Author4,1,http://example.com,negative
+Intel Xeon,Great product,"It works okay, but has some issues.",2023-11-29,Author3,5,http://example.com,positive
+Intel Celeron,Decent,"This was a waste of money, very disappointed.",2022-03-05,Author2,2,http://example.com,negative
+Intel Core i5,Terrible experience,"This product is amazing, highly recommend!",2022-01-17,Author6,4,http://example.com,positive
+Intel Celeron,Great product,"Not as good as I expected, but not terrible.",2023-06-14,Author5,2,http://example.com,negative
+Intel Celeron,Terrible experience,"It works okay, but has some issues.",2023-07-07,Author6,2,http://example.com,negative
+Intel Pentium,Could be better,"This product is amazing, highly recommend!",2023-03-02,Author1,2,http://example.com,negative
+Intel Core i9,Could be better,"Not as good as I expected, but not terrible.",2023-05-01,Author4,4,http://example.com,positive
+Intel Core i7,Very satisfied,"This product is amazing, highly recommend!",2024-04-26,Author3,2,http://example.com,negative
+Intel Pentium,Great product,"Exceeded my expectations, very satisfied!",2023-06-13,Author1,4,http://example.com,positive
+Intel Core i7,Not bad,"Just a decent product, nothing special.",2022-11-25,Author6,5,http://example.com,positive
+Intel Core i5,Not bad,"Just a decent product, nothing special.",2023-10-08,Author5,1,http://example.com,negative
+Intel Core i9,Very satisfied,"This product is amazing, highly recommend!",2024-01-14,Author4,2,http://example.com,negative
+Intel Pentium,Terrible experience,"Not as good as I expected, but not terrible.",2024-06-06,Author5,1,http://example.com,negative
+Intel Celeron,Decent,"Exceeded my expectations, very satisfied!",2022-09-26,Author5,1,http://example.com,negative
+Intel Pentium,Could be better,"This was a waste of money, very disappointed.",2022-11-05,Author2,4,http://example.com,positive
+Intel Core i7,Very satisfied,"It works okay, but has some issues.",2023-01-06,Author6,2,http://example.com,negative
+Intel Celeron,Very satisfied,"This was a waste of money, very disappointed.",2023-08-17,Author3,3,http://example.com,neutral
+Intel Core i5,Great product,"Just a decent product, nothing special.",2024-06-14,Author4,1,http://example.com,negative
+Intel Xeon,Very satisfied,"This product is amazing, highly recommend!",2022-07-11,Author3,3,http://example.com,neutral
+Intel Core i7,Very satisfied,"This product is amazing, highly recommend!",2024-02-23,Author2,2,http://example.com,negative
+Intel Core i5,Terrible experience,"This was a waste of money, very disappointed.",2024-07-30,Author4,3,http://example.com,neutral
+Intel Core i7,Very satisfied,"Not as good as I expected, but not terrible.",2023-02-25,Author5,4,http://example.com,positive
+Intel Core i7,Very satisfied,"It works okay, but has some issues.",2022-10-28,Author5,3,http://example.com,neutral
+Intel Core i5,Could be better,"This was a waste of money, very disappointed.",2022-07-13,Author6,5,http://example.com,positive
+Intel Core i5,Very satisfied,"Just a decent product, nothing special.",2022-08-29,Author3,4,http://example.com,positive
+Intel Core i5,Could be better,"Exceeded my expectations, very satisfied!",2022-10-30,Author3,2,http://example.com,negative
+Intel Core i7,Very satisfied,"It works okay, but has some issues.",2024-05-02,Author4,1,http://example.com,negative
+Intel Celeron,Could be better,"Just a decent product, nothing special.",2022-10-12,Author1,2,http://example.com,negative
+Intel Celeron,Decent,"Just a decent product, nothing special.",2022-07-08,Author6,5,http://example.com,positive
+Intel Core i9,Not bad,"Just a decent product, nothing special.",2022-10-14,Author6,3,http://example.com,neutral
+Intel Core i5,Not bad,"Just a decent product, nothing special.",2023-11-08,Author2,1,http://example.com,negative
+Intel Pentium,Decent,"This was a waste of money, very disappointed.",2024-06-03,Author6,5,http://example.com,positive
+Intel Xeon,Not bad,"Not as good as I expected, but not terrible.",2022-07-08,Author3,4,http://example.com,positive
+Intel Xeon,Could be better,"Not as good as I expected, but not terrible.",2022-10-12,Author6,3,http://example.com,neutral
+Intel Celeron,Not bad,"This was a waste of money, very disappointed.",2023-09-19,Author4,1,http://example.com,negative
+Intel Core i7,Could be better,"This product is amazing, highly recommend!",2022-07-18,Author2,1,http://example.com,negative
+Intel Pentium,Not bad,"Just a decent product, nothing special.",2024-06-23,Author1,4,http://example.com,positive
+Intel Xeon,Not bad,"Exceeded my expectations, very satisfied!",2023-10-31,Author3,5,http://example.com,positive
+Intel Pentium,Great product,"This was a waste of money, very disappointed.",2023-01-10,Author5,5,http://example.com,positive
+Intel Core i5,Very satisfied,"It works okay, but has some issues.",2023-10-11,Author2,2,http://example.com,negative
+Intel Core i7,Decent,"Just a decent product, nothing special.",2022-08-31,Author5,2,http://example.com,negative
+Intel Xeon,Terrible experience,"It works okay, but has some issues.",2023-03-08,Author1,5,http://example.com,positive
+Intel Celeron,Very satisfied,"Just a decent product, nothing special.",2022-09-29,Author2,5,http://example.com,positive
+Intel Celeron,Not bad,"Exceeded my expectations, very satisfied!",2023-01-03,Author2,2,http://example.com,negative
+Intel Core i9,Very satisfied,"Just a decent product, nothing special.",2023-12-21,Author1,1,http://example.com,negative
+Intel Core i7,Decent,"Exceeded my expectations, very satisfied!",2024-08-15,Author1,1,http://example.com,negative
+Intel Pentium,Terrible experience,"Just a decent product, nothing special.",2023-03-25,Author6,1,http://example.com,negative
+Intel Core i5,Great product,"Just a decent product, nothing special.",2024-03-06,Author6,5,http://example.com,positive
+Intel Core i9,Decent,"Not as good as I expected, but not terrible.",2023-03-11,Author1,1,http://example.com,negative
+Intel Pentium,Terrible experience,"Exceeded my expectations, very satisfied!",2023-09-24,Author6,2,http://example.com,negative
+Intel Core i5,Great product,"It works okay, but has some issues.",2023-03-16,Author3,3,http://example.com,neutral
+Intel Core i9,Not bad,"Exceeded my expectations, very satisfied!",2022-09-13,Author6,1,http://example.com,negative
+Intel Core i7,Not bad,"It works okay, but has some issues.",2023-11-27,Author1,1,http://example.com,negative
+Intel Xeon,Terrible experience,"Exceeded my expectations, very satisfied!",2022-12-16,Author5,1,http://example.com,negative
+Intel Pentium,Terrible experience,"Not as good as I expected, but not terrible.",2022-01-03,Author2,1,http://example.com,negative
+Intel Celeron,Very satisfied,"Just a decent product, nothing special.",2022-11-02,Author6,3,http://example.com,neutral
+Intel Core i7,Very satisfied,"This product is amazing, highly recommend!",2023-09-23,Author3,1,http://example.com,negative
+Intel Core i9,Terrible experience,"This product is amazing, highly recommend!",2022-03-30,Author5,1,http://example.com,negative
+Intel Core i5,Decent,"Exceeded my expectations, very satisfied!",2023-04-24,Author3,3,http://example.com,neutral
+Intel Core i9,Great product,"It works okay, but has some issues.",2024-06-07,Author1,2,http://example.com,negative
+Intel Celeron,Not bad,"Just a decent product, nothing special.",2022-04-09,Author6,5,http://example.com,positive
+Intel Celeron,Very satisfied,"This product is amazing, highly recommend!",2022-03-20,Author5,1,http://example.com,negative
+Intel Celeron,Terrible experience,"This product is amazing, highly recommend!",2022-05-30,Author1,3,http://example.com,neutral
+Intel Core i7,Could be better,"It works okay, but has some issues.",2024-07-27,Author4,4,http://example.com,positive
+Intel Xeon,Terrible experience,"Not as good as I expected, but not terrible.",2023-01-31,Author6,3,http://example.com,neutral
+Intel Core i7,Not bad,"Exceeded my expectations, very satisfied!",2022-09-29,Author6,4,http://example.com,positive
+Intel Core i9,Not bad,"Not as good as I expected, but not terrible.",2023-06-29,Author1,1,http://example.com,negative
+Intel Celeron,Not bad,"Not as good as I expected, but not terrible.",2023-05-14,Author6,1,http://example.com,negative
+Intel Core i5,Terrible experience,"Just a decent product, nothing special.",2024-01-08,Author6,1,http://example.com,negative
+Intel Core i5,Great product,"Not as good as I expected, but not terrible.",2024-07-30,Author6,5,http://example.com,positive
+Intel Celeron,Very satisfied,"This was a waste of money, very disappointed.",2024-09-19,Author4,3,http://example.com,neutral
+Intel Core i9,Terrible experience,"This was a waste of money, very disappointed.",2023-02-20,Author6,5,http://example.com,positive
+Intel Pentium,Decent,"Exceeded my expectations, very satisfied!",2023-06-11,Author1,5,http://example.com,positive
+Intel Pentium,Very satisfied,"Just a decent product, nothing special.",2023-01-12,Author5,4,http://example.com,positive
+Intel Xeon,Terrible experience,"Not as good as I expected, but not terrible.",2024-04-05,Author3,4,http://example.com,positive
+Intel Pentium,Great product,"Exceeded my expectations, very satisfied!",2022-06-01,Author6,4,http://example.com,positive
+Intel Core i5,Not bad,"Not as good as I expected, but not terrible.",2023-07-27,Author2,1,http://example.com,negative
+Intel Pentium,Terrible experience,"This product is amazing, highly recommend!",2022-07-10,Author6,4,http://example.com,positive
+Intel Core i5,Terrible experience,"Just a decent product, nothing special.",2024-03-12,Author1,4,http://example.com,positive
+Intel Celeron,Not bad,"It works okay, but has some issues.",2024-01-25,Author5,3,http://example.com,neutral
+Intel Pentium,Very satisfied,"It works okay, but has some issues.",2022-05-13,Author4,2,http://example.com,negative
+Intel Core i9,Decent,"Exceeded my expectations, very satisfied!",2024-02-27,Author2,4,http://example.com,positive
+Intel Pentium,Not bad,"It works okay, but has some issues.",2024-02-01,Author4,4,http://example.com,positive
+Intel Core i7,Very satisfied,"This product is amazing, highly recommend!",2023-06-02,Author4,5,http://example.com,positive
+Intel Xeon,Could be better,"This was a waste of money, very disappointed.",2023-04-13,Author5,5,http://example.com,positive
+Intel Xeon,Could be better,"Not as good as I expected, but not terrible.",2022-07-24,Author1,2,http://example.com,negative
+Intel Celeron,Great product,"Exceeded my expectations, very satisfied!",2024-02-11,Author4,2,http://example.com,negative
+Intel Core i7,Very satisfied,"Exceeded my expectations, very satisfied!",2022-02-15,Author2,5,http://example.com,positive
+Intel Core i9,Great product,"Not as good as I expected, but not terrible.",2024-04-09,Author4,1,http://example.com,negative
+Intel Celeron,Terrible experience,"This was a waste of money, very disappointed.",2024-01-27,Author2,1,http://example.com,negative
+Intel Pentium,Terrible experience,"Just a decent product, nothing special.",2023-05-14,Author4,3,http://example.com,neutral
+Intel Core i7,Very satisfied,"It works okay, but has some issues.",2022-12-23,Author4,3,http://example.com,neutral
+Intel Xeon,Great product,"This was a waste of money, very disappointed.",2023-06-07,Author5,5,http://example.com,positive
+Intel Core i7,Very satisfied,"This was a waste of money, very disappointed.",2022-09-22,Author2,5,http://example.com,positive
+Intel Core i7,Very satisfied,"This product is amazing, highly recommend!",2022-04-10,Author1,1,http://example.com,negative
+Intel Celeron,Not bad,"Not as good as I expected, but not terrible.",2023-09-07,Author1,1,http://example.com,negative
+Intel Core i7,Terrible experience,"Just a decent product, nothing special.",2024-09-12,Author3,3,http://example.com,neutral
+Intel Xeon,Decent,"It works okay, but has some issues.",2024-07-22,Author2,1,http://example.com,negative
+Intel Core i9,Not bad,"This product is amazing, highly recommend!",2022-08-11,Author2,5,http://example.com,positive
+Intel Core i5,Very satisfied,"Just a decent product, nothing special.",2024-03-04,Author1,1,http://example.com,negative
+Intel Core i9,Terrible experience,"Exceeded my expectations, very satisfied!",2023-10-26,Author4,4,http://example.com,positive
+Intel Pentium,Great product,"This product is amazing, highly recommend!",2023-04-11,Author1,5,http://example.com,positive
+Intel Core i9,Could be better,"Not as good as I expected, but not terrible.",2023-05-18,Author3,1,http://example.com,negative
+Intel Xeon,Terrible experience,"Not as good as I expected, but not terrible.",2023-06-09,Author1,4,http://example.com,positive
+Intel Xeon,Terrible experience,"This was a waste of money, very disappointed.",2024-01-10,Author6,5,http://example.com,positive
+Intel Core i5,Very satisfied,"Not as good as I expected, but not terrible.",2023-01-14,Author2,1,http://example.com,negative
+Intel Pentium,Decent,"It works okay, but has some issues.",2022-07-09,Author2,4,http://example.com,positive
+Intel Xeon,Very satisfied,"Not as good as I expected, but not terrible.",2023-01-15,Author4,4,http://example.com,positive
+Intel Xeon,Decent,"Not as good as I expected, but not terrible.",2023-11-08,Author2,3,http://example.com,neutral
+Intel Pentium,Terrible experience,"This was a waste of money, very disappointed.",2022-05-10,Author4,2,http://example.com,negative
+Intel Core i5,Decent,"This product is amazing, highly recommend!",2024-03-10,Author2,4,http://example.com,positive
+Intel Pentium,Could be better,"This product is amazing, highly recommend!",2024-04-22,Author1,3,http://example.com,neutral
+Intel Core i7,Not bad,"Exceeded my expectations, very satisfied!",2024-08-19,Author1,3,http://example.com,neutral
+Intel Celeron,Great product,"Just a decent product, nothing special.",2023-11-23,Author3,5,http://example.com,positive
+Intel Core i9,Terrible experience,"This was a waste of money, very disappointed.",2023-01-25,Author4,3,http://example.com,neutral
+Intel Pentium,Great product,"This was a waste of money, very disappointed.",2024-06-17,Author2,3,http://example.com,neutral
+Intel Core i7,Very satisfied,"This was a waste of money, very disappointed.",2023-08-12,Author5,2,http://example.com,negative
+Intel Core i5,Great product,"Not as good as I expected, but not terrible.",2022-02-25,Author1,3,http://example.com,neutral
+Intel Xeon,Not bad,"Not as good as I expected, but not terrible.",2023-07-13,Author5,2,http://example.com,negative
+Intel Celeron,Great product,"Not as good as I expected, but not terrible.",2023-07-18,Author1,5,http://example.com,positive
+Intel Core i9,Could be better,"Just a decent product, nothing special.",2022-08-08,Author6,2,http://example.com,negative
+Intel Core i7,Decent,"This was a waste of money, very disappointed.",2022-05-16,Author6,2,http://example.com,negative
+Intel Xeon,Great product,"It works okay, but has some issues.",2024-04-11,Author1,2,http://example.com,negative
+Intel Xeon,Terrible experience,"It works okay, but has some issues.",2022-02-02,Author1,4,http://example.com,positive
+Intel Core i7,Very satisfied,"Just a decent product, nothing special.",2022-10-19,Author1,1,http://example.com,negative
+Intel Core i9,Could be better,"Exceeded my expectations, very satisfied!",2022-02-08,Author3,4,http://example.com,positive
+Intel Xeon,Not bad,"Not as good as I expected, but not terrible.",2022-03-04,Author4,3,http://example.com,neutral
+Intel Core i7,Great product,"This product is amazing, highly recommend!",2024-06-01,Author2,3,http://example.com,neutral
+Intel Celeron,Could be better,"Just a decent product, nothing special.",2022-12-29,Author2,2,http://example.com,negative
+Intel Celeron,Terrible experience,"Just a decent product, nothing special.",2022-03-18,Author3,1,http://example.com,negative
+Intel Pentium,Great product,"Exceeded my expectations, very satisfied!",2024-02-17,Author4,4,http://example.com,positive
+Intel Pentium,Great product,"Exceeded my expectations, very satisfied!",2023-10-08,Author3,3,http://example.com,neutral
+Intel Pentium,Could be better,"This was a waste of money, very disappointed.",2023-03-03,Author6,1,http://example.com,negative
+Intel Xeon,Terrible experience,"It works okay, but has some issues.",2022-05-17,Author1,1,http://example.com,negative
+Intel Core i7,Very satisfied,"Not as good as I expected, but not terrible.",2024-09-11,Author4,4,http://example.com,positive
+Intel Core i7,Great product,"This was a waste of money, very disappointed.",2023-01-17,Author5,4,http://example.com,positive
+Intel Xeon,Could be better,"This product is amazing, highly recommend!",2023-01-12,Author2,5,http://example.com,positive
+Intel Core i5,Very satisfied,"It works okay, but has some issues.",2023-05-05,Author5,2,http://example.com,negative
+Intel Pentium,Very satisfied,"This product is amazing, highly recommend!",2023-08-13,Author2,1,http://example.com,negative
+Intel Core i5,Very satisfied,"This was a waste of money, very disappointed.",2023-04-14,Author2,3,http://example.com,neutral
+Intel Core i5,Terrible experience,"Not as good as I expected, but not terrible.",2023-11-18,Author2,1,http://example.com,negative
+Intel Xeon,Great product,"Exceeded my expectations, very satisfied!",2022-10-14,Author3,3,http://example.com,neutral
+Intel Celeron,Decent,"Exceeded my expectations, very satisfied!",2022-01-01,Author6,4,http://example.com,positive
+Intel Core i9,Not bad,"Exceeded my expectations, very satisfied!",2022-04-26,Author2,3,http://example.com,neutral
+Intel Pentium,Terrible experience,"This was a waste of money, very disappointed.",2023-06-21,Author5,2,http://example.com,negative
+Intel Core i9,Not bad,"This was a waste of money, very disappointed.",2024-04-08,Author4,4,http://example.com,positive
+Intel Core i5,Very satisfied,"It works okay, but has some issues.",2024-01-31,Author4,1,http://example.com,negative
+Intel Xeon,Decent,"It works okay, but has some issues.",2024-04-08,Author4,1,http://example.com,negative
+Intel Celeron,Could be better,"This product is amazing, highly recommend!",2024-06-10,Author4,2,http://example.com,negative
+Intel Xeon,Terrible experience,"Exceeded my expectations, very satisfied!",2024-08-14,Author5,2,http://example.com,negative
+Intel Xeon,Great product,"This product is amazing, highly recommend!",2024-02-23,Author2,3,http://example.com,neutral
+Intel Core i5,Great product,"It works okay, but has some issues.",2023-04-05,Author4,3,http://example.com,neutral
+Intel Celeron,Great product,"Not as good as I expected, but not terrible.",2024-04-26,Author1,2,http://example.com,negative
+Intel Core i7,Could be better,"Not as good as I expected, but not terrible.",2022-03-24,Author3,4,http://example.com,positive
+Intel Core i9,Not bad,"Not as good as I expected, but not terrible.",2023-06-13,Author1,1,http://example.com,negative
+Intel Core i7,Could be better,"Not as good as I expected, but not terrible.",2024-02-08,Author2,2,http://example.com,negative
+Intel Xeon,Terrible experience,"This product is amazing, highly recommend!",2024-08-05,Author1,3,http://example.com,neutral
+Intel Core i5,Decent,"Exceeded my expectations, very satisfied!",2023-11-03,Author6,1,http://example.com,negative
+Intel Xeon,Could be better,"This was a waste of money, very disappointed.",2024-09-03,Author1,3,http://example.com,neutral
+Intel Xeon,Very satisfied,"It works okay, but has some issues.",2023-04-25,Author5,5,http://example.com,positive
+Intel Pentium,Great product,"Just a decent product, nothing special.",2022-10-05,Author2,3,http://example.com,neutral
+Intel Pentium,Decent,"Just a decent product, nothing special.",2024-09-13,Author4,3,http://example.com,neutral
+Intel Pentium,Terrible experience,"Not as good as I expected, but not terrible.",2023-01-28,Author6,1,http://example.com,negative
+Intel Core i7,Could be better,"This product is amazing, highly recommend!",2024-09-08,Author1,3,http://example.com,neutral
+Intel Core i9,Terrible experience,"This was a waste of money, very disappointed.",2022-06-09,Author3,4,http://example.com,positive
+Intel Core i7,Great product,"Just a decent product, nothing special.",2024-08-25,Author2,5,http://example.com,positive
+Intel Xeon,Very satisfied,"This product is amazing, highly recommend!",2023-08-05,Author2,5,http://example.com,positive
+Intel Celeron,Could be better,"Just a decent product, nothing special.",2022-09-20,Author2,5,http://example.com,positive
+Intel Core i7,Very satisfied,"It works okay, but has some issues.",2022-01-12,Author6,3,http://example.com,neutral
+Intel Pentium,Great product,"This product is amazing, highly recommend!",2022-09-06,Author6,4,http://example.com,positive
+Intel Core i5,Terrible experience,"It works okay, but has some issues.",2022-01-03,Author1,5,http://example.com,positive
+Intel Celeron,Decent,"This was a waste of money, very disappointed.",2022-04-16,Author4,1,http://example.com,negative
+Intel Pentium,Very satisfied,"Exceeded my expectations, very satisfied!",2023-12-02,Author2,5,http://example.com,positive
+Intel Pentium,Could be better,"This was a waste of money, very disappointed.",2023-06-19,Author6,3,http://example.com,neutral
+Intel Pentium,Very satisfied,"It works okay, but has some issues.",2023-06-25,Author5,5,http://example.com,positive
+Intel Core i5,Could be better,"Exceeded my expectations, very satisfied!",2023-10-16,Author2,3,http://example.com,neutral
+Intel Pentium,Terrible experience,"It works okay, but has some issues.",2023-07-03,Author5,1,http://example.com,negative
+Intel Core i9,Very satisfied,"This product is amazing, highly recommend!",2022-03-16,Author4,1,http://example.com,negative
+Intel Pentium,Decent,"Exceeded my expectations, very satisfied!",2022-06-12,Author3,5,http://example.com,positive
+Intel Xeon,Could be better,"Not as good as I expected, but not terrible.",2023-08-13,Author2,5,http://example.com,positive
+Intel Core i5,Decent,"This was a waste of money, very disappointed.",2023-02-28,Author2,5,http://example.com,positive
+Intel Pentium,Decent,"This product is amazing, highly recommend!",2024-05-19,Author4,1,http://example.com,negative
+Intel Celeron,Decent,"Not as good as I expected, but not terrible.",2024-01-28,Author1,3,http://example.com,neutral
+Intel Core i5,Terrible experience,"It works okay, but has some issues.",2022-09-02,Author3,4,http://example.com,positive
+Intel Core i7,Could be better,"This product is amazing, highly recommend!",2023-12-15,Author3,2,http://example.com,negative
+Intel Xeon,Decent,"Not as good as I expected, but not terrible.",2023-10-12,Author3,1,http://example.com,negative
+Intel Xeon,Decent,"Exceeded my expectations, very satisfied!",2022-12-27,Author1,3,http://example.com,neutral
+Intel Xeon,Decent,"Exceeded my expectations, very satisfied!",2023-06-08,Author4,4,http://example.com,positive
+Intel Pentium,Could be better,"Exceeded my expectations, very satisfied!",2023-02-06,Author6,1,http://example.com,negative
+Intel Celeron,Could be better,"It works okay, but has some issues.",2023-02-01,Author6,2,http://example.com,negative
+Intel Core i5,Decent,"Not as good as I expected, but not terrible.",2024-01-03,Author4,5,http://example.com,positive
+Intel Celeron,Very satisfied,"This was a waste of money, very disappointed.",2022-11-04,Author1,5,http://example.com,positive
+Intel Core i7,Could be better,"Exceeded my expectations, very satisfied!",2022-08-18,Author1,4,http://example.com,positive
+Intel Xeon,Terrible experience,"This was a waste of money, very disappointed.",2023-04-20,Author3,3,http://example.com,neutral
+Intel Core i9,Could be better,"Not as good as I expected, but not terrible.",2023-07-31,Author2,3,http://example.com,neutral
+Intel Core i7,Great product,"Exceeded my expectations, very satisfied!",2024-08-14,Author1,5,http://example.com,positive
+Intel Xeon,Great product,"This product is amazing, highly recommend!",2023-12-09,Author3,3,http://example.com,neutral
+Intel Core i5,Terrible experience,"Exceeded my expectations, very satisfied!",2022-06-19,Author4,3,http://example.com,neutral
+Intel Pentium,Very satisfied,"This product is amazing, highly recommend!",2023-03-25,Author5,1,http://example.com,negative
+Intel Celeron,Very satisfied,"Exceeded my expectations, very satisfied!",2023-01-26,Author3,5,http://example.com,positive
+Intel Celeron,Decent,"This was a waste of money, very disappointed.",2024-08-08,Author4,4,http://example.com,positive
+Intel Xeon,Could be better,"It works okay, but has some issues.",2023-08-07,Author5,3,http://example.com,neutral
+Intel Core i7,Terrible experience,"This product is amazing, highly recommend!",2023-09-12,Author6,2,http://example.com,negative
+Intel Xeon,Could be better,"This product is amazing, highly recommend!",2024-08-06,Author3,5,http://example.com,positive
+Intel Core i9,Terrible experience,"This product is amazing, highly recommend!",2022-07-08,Author1,2,http://example.com,negative
+Intel Xeon,Could be better,"Just a decent product, nothing special.",2024-02-24,Author1,4,http://example.com,positive
+Intel Core i5,Very satisfied,"This was a waste of money, very disappointed.",2023-06-25,Author2,3,http://example.com,neutral
+Intel Core i7,Very satisfied,"Not as good as I expected, but not terrible.",2022-03-14,Author2,1,http://example.com,negative
+Intel Xeon,Not bad,"This product is amazing, highly recommend!",2023-07-21,Author6,3,http://example.com,neutral
+Intel Core i7,Great product,"It works okay, but has some issues.",2023-08-02,Author3,1,http://example.com,negative
+Intel Celeron,Could be better,"This was a waste of money, very disappointed.",2024-03-14,Author4,2,http://example.com,negative
+Intel Core i9,Decent,"It works okay, but has some issues.",2023-12-11,Author5,5,http://example.com,positive
+Intel Pentium,Very satisfied,"This was a waste of money, very disappointed.",2023-10-14,Author4,5,http://example.com,positive
+Intel Pentium,Could be better,"Not as good as I expected, but not terrible.",2023-08-30,Author1,3,http://example.com,neutral
+Intel Pentium,Terrible experience,"This product is amazing, highly recommend!",2023-08-12,Author5,4,http://example.com,positive
+Intel Celeron,Great product,"Exceeded my expectations, very satisfied!",2024-01-19,Author3,4,http://example.com,positive
+Intel Core i7,Could be better,"It works okay, but has some issues.",2022-09-13,Author4,1,http://example.com,negative
+Intel Core i5,Great product,"It works okay, but has some issues.",2022-05-29,Author4,1,http://example.com,negative
+Intel Pentium,Not bad,"It works okay, but has some issues.",2022-10-17,Author3,5,http://example.com,positive
+Intel Celeron,Great product,"It works okay, but has some issues.",2024-07-17,Author1,2,http://example.com,negative
+Intel Core i9,Could be better,"Exceeded my expectations, very satisfied!",2024-03-15,Author1,3,http://example.com,neutral
+Intel Xeon,Not bad,"This product is amazing, highly recommend!",2024-05-15,Author4,1,http://example.com,negative
+Intel Celeron,Could be better,"It works okay, but has some issues.",2022-02-01,Author5,3,http://example.com,neutral
+Intel Celeron,Decent,"Not as good as I expected, but not terrible.",2024-03-26,Author4,5,http://example.com,positive
+Intel Xeon,Very satisfied,"This product is amazing, highly recommend!",2022-10-26,Author6,5,http://example.com,positive
+Intel Core i5,Not bad,"Not as good as I expected, but not terrible.",2024-05-25,Author2,3,http://example.com,neutral
+Intel Xeon,Decent,"It works okay, but has some issues.",2023-09-07,Author5,3,http://example.com,neutral
+Intel Core i5,Decent,"This product is amazing, highly recommend!",2022-03-20,Author5,2,http://example.com,negative
+Intel Core i9,Not bad,"Not as good as I expected, but not terrible.",2023-02-27,Author6,2,http://example.com,negative
+Intel Core i9,Great product,"Just a decent product, nothing special.",2023-11-08,Author4,4,http://example.com,positive
+Intel Xeon,Very satisfied,"Not as good as I expected, but not terrible.",2022-08-10,Author2,4,http://example.com,positive
+Intel Core i9,Not bad,"This was a waste of money, very disappointed.",2024-01-27,Author1,3,http://example.com,neutral
+Intel Core i7,Decent,"This was a waste of money, very disappointed.",2024-04-08,Author5,3,http://example.com,neutral
+Intel Celeron,Decent,"It works okay, but has some issues.",2024-09-10,Author1,3,http://example.com,neutral
+Intel Celeron,Great product,"This product is amazing, highly recommend!",2022-11-30,Author6,2,http://example.com,negative
+Intel Core i7,Not bad,"Not as good as I expected, but not terrible.",2024-06-17,Author1,5,http://example.com,positive
+Intel Core i5,Decent,"This product is amazing, highly recommend!",2024-06-23,Author5,4,http://example.com,positive
+Intel Celeron,Very satisfied,"This product is amazing, highly recommend!",2022-02-16,Author6,5,http://example.com,positive
+Intel Core i9,Terrible experience,"Not as good as I expected, but not terrible.",2024-06-20,Author5,4,http://example.com,positive
+Intel Core i9,Very satisfied,"Not as good as I expected, but not terrible.",2023-10-03,Author6,1,http://example.com,negative
+Intel Xeon,Very satisfied,"This was a waste of money, very disappointed.",2023-05-03,Author2,2,http://example.com,negative
+Intel Core i9,Could be better,"Just a decent product, nothing special.",2023-05-06,Author5,3,http://example.com,neutral
+Intel Core i9,Great product,"It works okay, but has some issues.",2024-07-27,Author5,4,http://example.com,positive
+Intel Celeron,Great product,"Not as good as I expected, but not terrible.",2023-08-02,Author6,4,http://example.com,positive
+Intel Pentium,Great product,"Exceeded my expectations, very satisfied!",2022-01-23,Author6,3,http://example.com,neutral
+Intel Core i7,Could be better,"Just a decent product, nothing special.",2022-10-27,Author6,5,http://example.com,positive
+Intel Core i9,Terrible experience,"Exceeded my expectations, very satisfied!",2022-05-06,Author2,1,http://example.com,negative
+Intel Core i7,Very satisfied,"Just a decent product, nothing special.",2023-09-16,Author3,5,http://example.com,positive
+Intel Core i7,Terrible experience,"Not as good as I expected, but not terrible.",2023-01-23,Author2,4,http://example.com,positive
+Intel Xeon,Terrible experience,"Just a decent product, nothing special.",2024-09-20,Author2,3,http://example.com,neutral
+Intel Pentium,Not bad,"This was a waste of money, very disappointed.",2023-08-27,Author6,1,http://example.com,negative
+Intel Core i9,Decent,"This was a waste of money, very disappointed.",2022-08-08,Author3,1,http://example.com,negative
+Intel Pentium,Not bad,"Not as good as I expected, but not terrible.",2023-01-24,Author4,4,http://example.com,positive
+Intel Xeon,Decent,"Exceeded my expectations, very satisfied!",2022-07-16,Author2,5,http://example.com,positive
+Intel Pentium,Very satisfied,"It works okay, but has some issues.",2024-07-04,Author3,1,http://example.com,negative
+Intel Pentium,Very satisfied,"Just a decent product, nothing special.",2022-10-27,Author2,5,http://example.com,positive
+Intel Core i7,Very satisfied,"Not as good as I expected, but not terrible.",2022-01-09,Author1,2,http://example.com,negative
+Intel Xeon,Could be better,"Just a decent product, nothing special.",2023-08-26,Author3,2,http://example.com,negative
+Intel Celeron,Great product,"Exceeded my expectations, very satisfied!",2024-01-02,Author6,4,http://example.com,positive
+Intel Xeon,Could be better,"Just a decent product, nothing special.",2022-03-20,Author5,1,http://example.com,negative
+Intel Core i7,Terrible experience,"Exceeded my expectations, very satisfied!",2024-08-13,Author6,3,http://example.com,neutral
+Intel Core i7,Decent,"This product is amazing, highly recommend!",2023-01-11,Author5,3,http://example.com,neutral
+Intel Celeron,Very satisfied,"Exceeded my expectations, very satisfied!",2022-06-21,Author5,5,http://example.com,positive
+Intel Core i7,Great product,"Just a decent product, nothing special.",2023-02-10,Author5,2,http://example.com,negative
+Intel Xeon,Could be better,"Exceeded my expectations, very satisfied!",2024-09-10,Author2,2,http://example.com,negative
+Intel Core i5,Very satisfied,"This was a waste of money, very disappointed.",2023-08-05,Author3,3,http://example.com,neutral
+Intel Core i5,Not bad,"This was a waste of money, very disappointed.",2022-03-10,Author3,1,http://example.com,negative
+Intel Core i9,Not bad,"Just a decent product, nothing special.",2022-10-16,Author6,3,http://example.com,neutral
+Intel Celeron,Terrible experience,"This product is amazing, highly recommend!",2023-11-23,Author1,2,http://example.com,negative
+Intel Pentium,Could be better,"It works okay, but has some issues.",2022-02-01,Author1,3,http://example.com,neutral
+Intel Xeon,Decent,"Not as good as I expected, but not terrible.",2023-08-24,Author4,3,http://example.com,neutral
+Intel Pentium,Terrible experience,"It works okay, but has some issues.",2024-08-03,Author5,3,http://example.com,neutral
+Intel Celeron,Great product,"This product is amazing, highly recommend!",2022-05-10,Author3,5,http://example.com,positive
+Intel Core i7,Great product,"This product is amazing, highly recommend!",2022-08-24,Author1,3,http://example.com,neutral
+Intel Core i5,Could be better,"This product is amazing, highly recommend!",2023-11-16,Author1,5,http://example.com,positive
+Intel Celeron,Very satisfied,"This was a waste of money, very disappointed.",2023-01-27,Author4,4,http://example.com,positive
+Intel Core i5,Very satisfied,"It works okay, but has some issues.",2022-04-21,Author6,5,http://example.com,positive
+Intel Core i9,Decent,"This product is amazing, highly recommend!",2024-09-21,Author3,5,http://example.com,positive
+Intel Pentium,Could be better,"This product is amazing, highly recommend!",2022-01-20,Author4,2,http://example.com,negative
+Intel Core i5,Terrible experience,"This product is amazing, highly recommend!",2023-04-22,Author3,3,http://example.com,neutral
+Intel Core i5,Very satisfied,"Just a decent product, nothing special.",2022-05-08,Author4,5,http://example.com,positive
+Intel Core i5,Decent,"This product is amazing, highly recommend!",2022-04-26,Author4,4,http://example.com,positive
+Intel Celeron,Very satisfied,"Not as good as I expected, but not terrible.",2023-08-08,Author1,4,http://example.com,positive
+Intel Core i5,Great product,"Exceeded my expectations, very satisfied!",2022-03-22,Author5,5,http://example.com,positive
+Intel Pentium,Not bad,"It works okay, but has some issues.",2022-01-06,Author4,5,http://example.com,positive
+Intel Celeron,Terrible experience,"Not as good as I expected, but not terrible.",2022-07-14,Author1,1,http://example.com,negative
+Intel Core i5,Terrible experience,"Just a decent product, nothing special.",2023-10-18,Author2,1,http://example.com,negative
+Intel Celeron,Very satisfied,"It works okay, but has some issues.",2024-03-12,Author6,2,http://example.com,negative
+Intel Celeron,Decent,"Just a decent product, nothing special.",2023-12-03,Author6,1,http://example.com,negative
+Intel Core i5,Terrible experience,"Just a decent product, nothing special.",2023-09-27,Author2,2,http://example.com,negative
+Intel Core i9,Terrible experience,"Just a decent product, nothing special.",2023-01-27,Author4,1,http://example.com,negative
+Intel Core i5,Not bad,"This product is amazing, highly recommend!",2024-02-23,Author3,2,http://example.com,negative
+Intel Core i7,Decent,"This was a waste of money, very disappointed.",2022-12-31,Author6,5,http://example.com,positive
+Intel Pentium,Terrible experience,"Exceeded my expectations, very satisfied!",2023-05-09,Author2,2,http://example.com,negative
+Intel Xeon,Decent,"Exceeded my expectations, very satisfied!",2022-08-02,Author1,4,http://example.com,positive
+Intel Core i7,Decent,"Not as good as I expected, but not terrible.",2022-09-27,Author5,3,http://example.com,neutral
+Intel Core i9,Not bad,"Exceeded my expectations, very satisfied!",2024-07-25,Author5,2,http://example.com,negative
+Intel Xeon,Not bad,"This was a waste of money, very disappointed.",2023-11-22,Author6,1,http://example.com,negative
+Intel Celeron,Great product,"Just a decent product, nothing special.",2022-06-22,Author6,2,http://example.com,negative
+Intel Core i5,Terrible experience,"Exceeded my expectations, very satisfied!",2024-03-15,Author3,1,http://example.com,negative
+Intel Celeron,Not bad,"Just a decent product, nothing special.",2024-01-07,Author3,2,http://example.com,negative
+Intel Core i5,Decent,"Not as good as I expected, but not terrible.",2023-10-23,Author1,2,http://example.com,negative
+Intel Xeon,Not bad,"This was a waste of money, very disappointed.",2024-07-16,Author4,3,http://example.com,neutral
+Intel Core i9,Decent,"This was a waste of money, very disappointed.",2024-06-08,Author5,3,http://example.com,neutral
+Intel Pentium,Could be better,"This product is amazing, highly recommend!",2022-10-05,Author5,1,http://example.com,negative
+Intel Core i9,Not bad,"It works okay, but has some issues.",2022-03-15,Author3,5,http://example.com,positive
+Intel Celeron,Very satisfied,"This was a waste of money, very disappointed.",2022-02-05,Author1,2,http://example.com,negative
+Intel Xeon,Could be better,"Not as good as I expected, but not terrible.",2023-09-19,Author3,1,http://example.com,negative
+Intel Core i9,Decent,"Not as good as I expected, but not terrible.",2023-02-21,Author4,5,http://example.com,positive
+Intel Core i7,Decent,"It works okay, but has some issues.",2022-08-16,Author3,2,http://example.com,negative
+Intel Celeron,Great product,"This was a waste of money, very disappointed.",2022-10-06,Author2,4,http://example.com,positive
+Intel Core i5,Great product,"This product is amazing, highly recommend!",2023-11-25,Author2,3,http://example.com,neutral
+Intel Pentium,Not bad,"This was a waste of money, very disappointed.",2024-07-09,Author6,3,http://example.com,neutral
+Intel Xeon,Very satisfied,"This product is amazing, highly recommend!",2022-12-21,Author2,4,http://example.com,positive
+Intel Core i9,Great product,"Just a decent product, nothing special.",2022-06-25,Author3,3,http://example.com,neutral
+Intel Core i9,Very satisfied,"It works okay, but has some issues.",2024-03-06,Author6,5,http://example.com,positive
+Intel Celeron,Not bad,"This was a waste of money, very disappointed.",2024-02-28,Author4,2,http://example.com,negative
+Intel Celeron,Very satisfied,"Exceeded my expectations, very satisfied!",2022-04-12,Author4,2,http://example.com,negative
+Intel Core i7,Not bad,"Exceeded my expectations, very satisfied!",2022-05-04,Author5,4,http://example.com,positive
+Intel Pentium,Not bad,"This product is amazing, highly recommend!",2024-01-02,Author5,5,http://example.com,positive
+Intel Xeon,Very satisfied,"This product is amazing, highly recommend!",2022-03-30,Author2,2,http://example.com,negative
+Intel Celeron,Great product,"Exceeded my expectations, very satisfied!",2022-08-13,Author2,4,http://example.com,positive
+Intel Pentium,Not bad,"Exceeded my expectations, very satisfied!",2023-02-20,Author5,1,http://example.com,negative
+Intel Core i7,Not bad,"Not as good as I expected, but not terrible.",2022-07-11,Author2,2,http://example.com,negative
+Intel Xeon,Decent,"Not as good as I expected, but not terrible.",2022-03-27,Author1,4,http://example.com,positive
+Intel Core i9,Very satisfied,"This was a waste of money, very disappointed.",2022-12-07,Author3,1,http://example.com,negative
+Intel Core i5,Not bad,"Just a decent product, nothing special.",2023-02-24,Author1,5,http://example.com,positive
+Intel Xeon,Very satisfied,"Not as good as I expected, but not terrible.",2023-09-11,Author3,4,http://example.com,positive
+Intel Core i5,Decent,"Just a decent product, nothing special.",2023-02-01,Author2,5,http://example.com,positive
+Intel Pentium,Could be better,"This was a waste of money, very disappointed.",2024-08-01,Author4,2,http://example.com,negative
+Intel Core i7,Could be better,"Just a decent product, nothing special.",2022-10-26,Author5,3,http://example.com,neutral
+Intel Core i5,Great product,"This product is amazing, highly recommend!",2023-09-13,Author1,1,http://example.com,negative
+Intel Core i5,Great product,"This was a waste of money, very disappointed.",2024-06-29,Author3,5,http://example.com,positive
+Intel Core i9,Not bad,"Not as good as I expected, but not terrible.",2023-04-03,Author1,2,http://example.com,negative
+Intel Pentium,Great product,"This was a waste of money, very disappointed.",2023-04-16,Author4,4,http://example.com,positive
+Intel Core i5,Very satisfied,"This was a waste of money, very disappointed.",2023-04-20,Author5,4,http://example.com,positive
+Intel Core i7,Could be better,"This product is amazing, highly recommend!",2022-07-20,Author4,4,http://example.com,positive
+Intel Celeron,Not bad,"Exceeded my expectations, very satisfied!",2022-10-27,Author2,1,http://example.com,negative
+Intel Core i9,Terrible experience,"Not as good as I expected, but not terrible.",2022-09-21,Author5,4,http://example.com,positive
+Intel Core i9,Not bad,"It works okay, but has some issues.",2023-12-14,Author6,4,http://example.com,positive
+Intel Core i7,Very satisfied,"This product is amazing, highly recommend!",2023-12-08,Author1,2,http://example.com,negative
+Intel Pentium,Terrible experience,"It works okay, but has some issues.",2024-05-03,Author3,4,http://example.com,positive
+Intel Core i7,Great product,"Exceeded my expectations, very satisfied!",2022-08-26,Author5,1,http://example.com,negative
+Intel Core i5,Very satisfied,"This was a waste of money, very disappointed.",2024-09-21,Author2,1,http://example.com,negative
+Intel Celeron,Great product,"Exceeded my expectations, very satisfied!",2024-07-31,Author1,1,http://example.com,negative
+Intel Celeron,Terrible experience,"Just a decent product, nothing special.",2022-11-08,Author4,5,http://example.com,positive
+Intel Celeron,Not bad,"Not as good as I expected, but not terrible.",2022-04-14,Author3,3,http://example.com,neutral
+Intel Xeon,Very satisfied,"This product is amazing, highly recommend!",2022-01-10,Author4,1,http://example.com,negative
+Intel Pentium,Not bad,"It works okay, but has some issues.",2023-07-15,Author1,1,http://example.com,negative
+Intel Celeron,Not bad,"It works okay, but has some issues.",2023-06-04,Author3,1,http://example.com,negative
+Intel Core i7,Decent,"Exceeded my expectations, very satisfied!",2023-09-11,Author5,2,http://example.com,negative
+Intel Pentium,Decent,"This product is amazing, highly recommend!",2024-07-10,Author4,5,http://example.com,positive
+Intel Pentium,Very satisfied,"Just a decent product, nothing special.",2023-01-09,Author6,3,http://example.com,neutral
+Intel Celeron,Could be better,"It works okay, but has some issues.",2023-09-17,Author5,2,http://example.com,negative
+Intel Core i5,Decent,"This product is amazing, highly recommend!",2023-12-30,Author4,3,http://example.com,neutral
+Intel Core i9,Terrible experience,"This was a waste of money, very disappointed.",2024-06-28,Author6,3,http://example.com,neutral
+Intel Pentium,Very satisfied,"It works okay, but has some issues.",2024-01-22,Author1,3,http://example.com,neutral
+Intel Pentium,Could be better,"It works okay, but has some issues.",2022-01-25,Author5,2,http://example.com,negative
+Intel Pentium,Terrible experience,"This product is amazing, highly recommend!",2024-08-31,Author5,2,http://example.com,negative
+Intel Celeron,Decent,"It works okay, but has some issues.",2022-03-22,Author6,2,http://example.com,negative
+Intel Pentium,Could be better,"It works okay, but has some issues.",2024-05-15,Author1,1,http://example.com,negative
+Intel Core i5,Decent,"This product is amazing, highly recommend!",2022-11-12,Author4,5,http://example.com,positive
+Intel Pentium,Great product,"Not as good as I expected, but not terrible.",2024-07-18,Author3,4,http://example.com,positive
+Intel Core i7,Great product,"Just a decent product, nothing special.",2022-06-29,Author5,1,http://example.com,negative
+Intel Core i5,Very satisfied,"It works okay, but has some issues.",2022-03-30,Author6,1,http://example.com,negative
+Intel Core i7,Decent,"This product is amazing, highly recommend!",2024-09-01,Author4,1,http://example.com,negative
+Intel Xeon,Terrible experience,"This product is amazing, highly recommend!",2023-11-28,Author3,4,http://example.com,positive
+Intel Core i9,Great product,"This was a waste of money, very disappointed.",2023-06-16,Author2,3,http://example.com,neutral
+Intel Pentium,Great product,"Just a decent product, nothing special.",2024-08-23,Author4,4,http://example.com,positive
+Intel Core i9,Terrible experience,"It works okay, but has some issues.",2024-08-09,Author5,2,http://example.com,negative
+Intel Core i9,Terrible experience,"Not as good as I expected, but not terrible.",2024-05-08,Author5,3,http://example.com,neutral
+Intel Core i7,Great product,"This was a waste of money, very disappointed.",2024-08-03,Author2,3,http://example.com,neutral
+Intel Celeron,Great product,"It works okay, but has some issues.",2024-07-11,Author2,2,http://example.com,negative
+Intel Pentium,Decent,"This product is amazing, highly recommend!",2024-07-24,Author5,1,http://example.com,negative
+Intel Core i5,Great product,"Not as good as I expected, but not terrible.",2024-04-05,Author6,4,http://example.com,positive
+Intel Core i5,Decent,"Just a decent product, nothing special.",2023-11-08,Author2,1,http://example.com,negative
+Intel Pentium,Terrible experience,"This product is amazing, highly recommend!",2022-05-09,Author3,2,http://example.com,negative
+Intel Core i7,Great product,"Not as good as I expected, but not terrible.",2023-06-13,Author4,4,http://example.com,positive
+Intel Pentium,Terrible experience,"Exceeded my expectations, very satisfied!",2023-07-25,Author4,5,http://example.com,positive
+Intel Core i5,Very satisfied,"Exceeded my expectations, very satisfied!",2023-04-20,Author3,3,http://example.com,neutral
+Intel Core i9,Terrible experience,"This product is amazing, highly recommend!",2024-06-16,Author3,2,http://example.com,negative
+Intel Celeron,Very satisfied,"Exceeded my expectations, very satisfied!",2024-06-30,Author4,1,http://example.com,negative
+Intel Celeron,Great product,"Just a decent product, nothing special.",2024-03-15,Author3,5,http://example.com,positive
+Intel Core i9,Could be better,"This product is amazing, highly recommend!",2024-01-15,Author4,5,http://example.com,positive
+Intel Celeron,Great product,"It works okay, but has some issues.",2022-01-07,Author6,4,http://example.com,positive
+Intel Xeon,Terrible experience,"Exceeded my expectations, very satisfied!",2023-07-18,Author5,2,http://example.com,negative
+Intel Pentium,Decent,"Just a decent product, nothing special.",2024-01-23,Author4,1,http://example.com,negative
+Intel Core i9,Great product,"This product is amazing, highly recommend!",2024-03-29,Author2,3,http://example.com,neutral
+Intel Pentium,Great product,"This product is amazing, highly recommend!",2023-07-19,Author4,1,http://example.com,negative
+Intel Celeron,Not bad,"Exceeded my expectations, very satisfied!",2022-07-13,Author2,5,http://example.com,positive
+Intel Pentium,Could be better,"This was a waste of money, very disappointed.",2022-08-28,Author4,2,http://example.com,negative
+Intel Core i5,Very satisfied,"This was a waste of money, very disappointed.",2024-05-02,Author6,5,http://example.com,positive
+Intel Pentium,Terrible experience,"Just a decent product, nothing special.",2023-06-07,Author2,1,http://example.com,negative
+Intel Xeon,Decent,"This product is amazing, highly recommend!",2024-05-07,Author5,5,http://example.com,positive
+Intel Celeron,Very satisfied,"This was a waste of money, very disappointed.",2024-07-09,Author6,4,http://example.com,positive
+Intel Celeron,Could be better,"Not as good as I expected, but not terrible.",2022-11-28,Author1,5,http://example.com,positive
+Intel Core i9,Terrible experience,"This product is amazing, highly recommend!",2024-02-24,Author6,3,http://example.com,neutral
+Intel Pentium,Decent,"This was a waste of money, very disappointed.",2022-09-03,Author5,4,http://example.com,positive
+Intel Celeron,Great product,"Not as good as I expected, but not terrible.",2024-04-01,Author6,5,http://example.com,positive
+Intel Xeon,Great product,"Not as good as I expected, but not terrible.",2023-07-15,Author2,2,http://example.com,negative
+Intel Core i5,Not bad,"This was a waste of money, very disappointed.",2023-09-27,Author4,3,http://example.com,neutral
+Intel Celeron,Great product,"It works okay, but has some issues.",2024-09-10,Author1,3,http://example.com,neutral
+Intel Xeon,Decent,"This was a waste of money, very disappointed.",2024-06-27,Author5,2,http://example.com,negative
+Intel Core i5,Not bad,"Exceeded my expectations, very satisfied!",2024-09-10,Author6,4,http://example.com,positive
+Intel Xeon,Great product,"Exceeded my expectations, very satisfied!",2022-09-27,Author1,4,http://example.com,positive
+Intel Xeon,Not bad,"It works okay, but has some issues.",2024-09-03,Author3,3,http://example.com,neutral
+Intel Core i9,Terrible experience,"Just a decent product, nothing special.",2024-07-29,Author4,3,http://example.com,neutral
+Intel Pentium,Could be better,"This was a waste of money, very disappointed.",2023-07-02,Author1,5,http://example.com,positive
+Intel Core i5,Terrible experience,"Not as good as I expected, but not terrible.",2023-06-14,Author4,4,http://example.com,positive
+Intel Core i5,Great product,"Exceeded my expectations, very satisfied!",2022-01-14,Author5,4,http://example.com,positive
+Intel Pentium,Terrible experience,"Exceeded my expectations, very satisfied!",2023-04-03,Author3,4,http://example.com,positive
+Intel Xeon,Decent,"Just a decent product, nothing special.",2024-06-27,Author6,1,http://example.com,negative
+Intel Celeron,Decent,"This product is amazing, highly recommend!",2022-03-03,Author5,1,http://example.com,negative
+Intel Core i5,Very satisfied,"Exceeded my expectations, very satisfied!",2022-04-02,Author2,2,http://example.com,negative
+Intel Xeon,Great product,"Just a decent product, nothing special.",2022-01-11,Author6,2,http://example.com,negative
+Intel Pentium,Great product,"This product is amazing, highly recommend!",2023-10-07,Author3,4,http://example.com,positive
+Intel Celeron,Terrible experience,"This product is amazing, highly recommend!",2024-05-23,Author4,1,http://example.com,negative
+Intel Celeron,Decent,"Exceeded my expectations, very satisfied!",2022-07-26,Author5,3,http://example.com,neutral
+Intel Core i9,Great product,"It works okay, but has some issues.",2023-09-25,Author3,3,http://example.com,neutral
+Intel Core i5,Terrible experience,"Not as good as I expected, but not terrible.",2022-08-03,Author5,3,http://example.com,neutral
+Intel Core i7,Very satisfied,"Just a decent product, nothing special.",2024-02-27,Author5,5,http://example.com,positive
+Intel Core i7,Decent,"It works okay, but has some issues.",2023-02-06,Author4,4,http://example.com,positive
+Intel Core i9,Could be better,"It works okay, but has some issues.",2023-04-20,Author6,1,http://example.com,negative
+Intel Core i5,Great product,"Just a decent product, nothing special.",2022-11-25,Author3,4,http://example.com,positive
+Intel Celeron,Not bad,"It works okay, but has some issues.",2023-03-25,Author2,1,http://example.com,negative
+Intel Celeron,Could be better,"This product is amazing, highly recommend!",2024-06-15,Author3,5,http://example.com,positive
+Intel Core i7,Great product,"This product is amazing, highly recommend!",2023-01-20,Author2,1,http://example.com,negative
+Intel Xeon,Great product,"This product is amazing, highly recommend!",2022-09-06,Author5,5,http://example.com,positive
+Intel Pentium,Great product,"This product is amazing, highly recommend!",2022-07-18,Author1,5,http://example.com,positive
+Intel Core i9,Terrible experience,"It works okay, but has some issues.",2023-08-29,Author2,5,http://example.com,positive
+Intel Core i7,Could be better,"Just a decent product, nothing special.",2022-02-10,Author3,1,http://example.com,negative
+Intel Pentium,Decent,"Not as good as I expected, but not terrible.",2024-09-13,Author6,5,http://example.com,positive
+Intel Core i9,Terrible experience,"This product is amazing, highly recommend!",2022-04-19,Author6,5,http://example.com,positive
+Intel Core i9,Decent,"This was a waste of money, very disappointed.",2023-05-09,Author4,5,http://example.com,positive
+Intel Core i5,Could be better,"Not as good as I expected, but not terrible.",2024-03-30,Author1,5,http://example.com,positive
+Intel Pentium,Terrible experience,"This product is amazing, highly recommend!",2024-08-01,Author2,2,http://example.com,negative
+Intel Pentium,Not bad,"Exceeded my expectations, very satisfied!",2023-08-23,Author4,4,http://example.com,positive
+Intel Celeron,Terrible experience,"It works okay, but has some issues.",2022-05-05,Author4,4,http://example.com,positive
+Intel Core i7,Decent,"Not as good as I expected, but not terrible.",2022-04-11,Author6,1,http://example.com,negative
+Intel Celeron,Decent,"Just a decent product, nothing special.",2023-08-07,Author2,5,http://example.com,positive
+Intel Core i9,Very satisfied,"Exceeded my expectations, very satisfied!",2022-08-24,Author6,3,http://example.com,neutral
+Intel Xeon,Decent,"This product is amazing, highly recommend!",2022-02-12,Author5,1,http://example.com,negative
+Intel Core i9,Could be better,"It works okay, but has some issues.",2023-05-13,Author4,1,http://example.com,negative
+Intel Celeron,Great product,"This product is amazing, highly recommend!",2022-07-24,Author1,1,http://example.com,negative
+Intel Core i5,Great product,"This was a waste of money, very disappointed.",2022-01-23,Author6,3,http://example.com,neutral
+Intel Core i7,Not bad,"Exceeded my expectations, very satisfied!",2023-01-04,Author4,1,http://example.com,negative
+Intel Core i9,Not bad,"It works okay, but has some issues.",2022-07-29,Author4,1,http://example.com,negative
+Intel Celeron,Great product,"It works okay, but has some issues.",2022-02-08,Author1,4,http://example.com,positive
+Intel Core i7,Decent,"Not as good as I expected, but not terrible.",2023-03-21,Author4,4,http://example.com,positive
+Intel Core i7,Could be better,"It works okay, but has some issues.",2022-06-16,Author5,4,http://example.com,positive
+Intel Core i7,Could be better,"This was a waste of money, very disappointed.",2024-09-04,Author2,4,http://example.com,positive
+Intel Core i5,Very satisfied,"Just a decent product, nothing special.",2023-07-05,Author4,1,http://example.com,negative
+Intel Core i9,Decent,"Just a decent product, nothing special.",2024-07-27,Author1,3,http://example.com,neutral
+Intel Core i9,Great product,"Exceeded my expectations, very satisfied!",2023-11-18,Author4,5,http://example.com,positive
+Intel Pentium,Not bad,"It works okay, but has some issues.",2022-02-02,Author5,2,http://example.com,negative
+Intel Pentium,Decent,"Not as good as I expected, but not terrible.",2022-01-30,Author3,2,http://example.com,negative
+Intel Core i9,Not bad,"This product is amazing, highly recommend!",2022-03-31,Author2,3,http://example.com,neutral
+Intel Pentium,Terrible experience,"Exceeded my expectations, very satisfied!",2023-03-18,Author2,4,http://example.com,positive
+Intel Core i7,Not bad,"This product is amazing, highly recommend!",2023-03-28,Author1,5,http://example.com,positive
+Intel Core i5,Decent,"This was a waste of money, very disappointed.",2023-05-28,Author5,4,http://example.com,positive
+Intel Celeron,Decent,"Not as good as I expected, but not terrible.",2023-02-20,Author5,1,http://example.com,negative
+Intel Celeron,Terrible experience,"This product is amazing, highly recommend!",2024-05-08,Author4,2,http://example.com,negative
+Intel Xeon,Not bad,"This product is amazing, highly recommend!",2024-05-03,Author5,5,http://example.com,positive
+Intel Core i9,Terrible experience,"Just a decent product, nothing special.",2022-08-30,Author2,4,http://example.com,positive
+Intel Celeron,Terrible experience,"This product is amazing, highly recommend!",2022-08-04,Author3,4,http://example.com,positive
+Intel Pentium,Not bad,"Not as good as I expected, but not terrible.",2024-09-08,Author6,3,http://example.com,neutral
+Intel Core i9,Decent,"Exceeded my expectations, very satisfied!",2023-05-11,Author4,1,http://example.com,negative
+Intel Celeron,Not bad,"This was a waste of money, very disappointed.",2024-04-30,Author6,2,http://example.com,negative
+Intel Celeron,Decent,"Exceeded my expectations, very satisfied!",2023-06-14,Author1,4,http://example.com,positive
+Intel Core i9,Great product,"Exceeded my expectations, very satisfied!",2022-06-02,Author1,3,http://example.com,neutral
+Intel Xeon,Could be better,"This product is amazing, highly recommend!",2022-04-01,Author4,4,http://example.com,positive
+Intel Pentium,Not bad,"Just a decent product, nothing special.",2022-04-24,Author6,2,http://example.com,negative
+Intel Pentium,Great product,"It works okay, but has some issues.",2023-05-05,Author2,5,http://example.com,positive
+Intel Pentium,Very satisfied,"Not as good as I expected, but not terrible.",2022-09-05,Author5,2,http://example.com,negative
+Intel Core i7,Decent,"Exceeded my expectations, very satisfied!",2023-03-02,Author5,4,http://example.com,positive
+Intel Core i7,Terrible experience,"Not as good as I expected, but not terrible.",2023-12-22,Author4,2,http://example.com,negative
+Intel Core i9,Terrible experience,"Just a decent product, nothing special.",2022-05-20,Author6,1,http://example.com,negative
+Intel Core i9,Very satisfied,"This was a waste of money, very disappointed.",2024-03-24,Author2,1,http://example.com,negative
+Intel Core i5,Terrible experience,"It works okay, but has some issues.",2023-12-23,Author3,4,http://example.com,positive
+Intel Pentium,Decent,"Exceeded my expectations, very satisfied!",2024-01-13,Author1,1,http://example.com,negative
+Intel Core i7,Terrible experience,"It works okay, but has some issues.",2023-01-23,Author4,4,http://example.com,positive
+Intel Celeron,Decent,"Exceeded my expectations, very satisfied!",2024-08-23,Author3,1,http://example.com,negative
+Intel Xeon,Could be better,"This product is amazing, highly recommend!",2024-03-18,Author5,5,http://example.com,positive
+Intel Core i5,Great product,"Not as good as I expected, but not terrible.",2022-06-15,Author3,2,http://example.com,negative
+Intel Celeron,Not bad,"Exceeded my expectations, very satisfied!",2022-01-12,Author1,5,http://example.com,positive
+Intel Xeon,Very satisfied,"It works okay, but has some issues.",2022-08-07,Author6,2,http://example.com,negative
+Intel Pentium,Not bad,"This product is amazing, highly recommend!",2024-02-10,Author1,5,http://example.com,positive
+Intel Core i7,Terrible experience,"Exceeded my expectations, very satisfied!",2022-09-06,Author3,3,http://example.com,neutral
+Intel Pentium,Could be better,"It works okay, but has some issues.",2024-04-13,Author6,1,http://example.com,negative
+Intel Core i7,Decent,"Not as good as I expected, but not terrible.",2024-06-19,Author3,4,http://example.com,positive
+Intel Core i7,Could be better,"It works okay, but has some issues.",2024-02-09,Author3,2,http://example.com,negative
+Intel Core i5,Great product,"Not as good as I expected, but not terrible.",2024-06-25,Author6,5,http://example.com,positive
+Intel Core i7,Terrible experience,"Just a decent product, nothing special.",2024-03-05,Author3,5,http://example.com,positive
+Intel Xeon,Great product,"Exceeded my expectations, very satisfied!",2022-11-09,Author1,2,http://example.com,negative
+Intel Celeron,Could be better,"This product is amazing, highly recommend!",2022-10-27,Author2,3,http://example.com,neutral
+Intel Core i5,Great product,"Just a decent product, nothing special.",2023-08-09,Author2,3,http://example.com,neutral
+Intel Core i9,Could be better,"This was a waste of money, very disappointed.",2023-02-18,Author6,1,http://example.com,negative
+Intel Core i9,Very satisfied,"Exceeded my expectations, very satisfied!",2024-04-09,Author3,2,http://example.com,negative
+Intel Celeron,Decent,"This product is amazing, highly recommend!",2022-12-18,Author6,1,http://example.com,negative
+Intel Core i5,Great product,"This was a waste of money, very disappointed.",2023-08-16,Author2,1,http://example.com,negative
+Intel Celeron,Could be better,"This was a waste of money, very disappointed.",2023-02-19,Author2,5,http://example.com,positive
+Intel Core i5,Decent,"This was a waste of money, very disappointed.",2022-08-23,Author2,5,http://example.com,positive
+Intel Celeron,Very satisfied,"Not as good as I expected, but not terrible.",2022-06-30,Author1,2,http://example.com,negative
+Intel Celeron,Decent,"This product is amazing, highly recommend!",2024-02-12,Author1,4,http://example.com,positive
+Intel Core i9,Could be better,"It works okay, but has some issues.",2022-08-24,Author5,4,http://example.com,positive
+Intel Core i5,Not bad,"Exceeded my expectations, very satisfied!",2022-08-23,Author1,5,http://example.com,positive
+Intel Pentium,Decent,"Not as good as I expected, but not terrible.",2023-03-04,Author5,2,http://example.com,negative
+Intel Pentium,Could be better,"This was a waste of money, very disappointed.",2022-08-27,Author5,3,http://example.com,neutral
+Intel Xeon,Terrible experience,"Exceeded my expectations, very satisfied!",2022-11-11,Author4,5,http://example.com,positive
+Intel Xeon,Great product,"It works okay, but has some issues.",2022-07-29,Author3,3,http://example.com,neutral
+Intel Core i7,Very satisfied,"Not as good as I expected, but not terrible.",2023-07-17,Author4,2,http://example.com,negative
+Intel Xeon,Great product,"It works okay, but has some issues.",2024-05-20,Author4,2,http://example.com,negative
+Intel Core i7,Decent,"This was a waste of money, very disappointed.",2024-01-20,Author4,2,http://example.com,negative
+Intel Core i7,Great product,"Not as good as I expected, but not terrible.",2023-10-09,Author1,3,http://example.com,neutral
+Intel Pentium,Decent,"Just a decent product, nothing special.",2023-01-03,Author4,2,http://example.com,negative
+Intel Pentium,Great product,"Not as good as I expected, but not terrible.",2022-10-18,Author5,1,http://example.com,negative
+Intel Core i5,Not bad,"This was a waste of money, very disappointed.",2023-11-08,Author6,4,http://example.com,positive
+Intel Celeron,Could be better,"Exceeded my expectations, very satisfied!",2024-08-24,Author4,4,http://example.com,positive
+Intel Core i7,Not bad,"Just a decent product, nothing special.",2022-05-16,Author2,3,http://example.com,neutral
+Intel Core i5,Could be better,"Not as good as I expected, but not terrible.",2023-01-13,Author3,5,http://example.com,positive
+Intel Core i9,Great product,"This product is amazing, highly recommend!",2022-10-27,Author5,2,http://example.com,negative
+Intel Xeon,Very satisfied,"This product is amazing, highly recommend!",2023-04-30,Author6,1,http://example.com,negative
+Intel Core i7,Great product,"Just a decent product, nothing special.",2022-09-27,Author5,3,http://example.com,neutral
+Intel Celeron,Terrible experience,"Exceeded my expectations, very satisfied!",2023-09-03,Author1,3,http://example.com,neutral
+Intel Pentium,Terrible experience,"This product is amazing, highly recommend!",2023-09-26,Author2,5,http://example.com,positive
+Intel Pentium,Very satisfied,"It works okay, but has some issues.",2022-03-22,Author6,3,http://example.com,neutral
+Intel Core i5,Great product,"Not as good as I expected, but not terrible.",2024-09-12,Author6,2,http://example.com,negative
+Intel Core i5,Decent,"Just a decent product, nothing special.",2023-11-18,Author3,5,http://example.com,positive
+Intel Core i7,Great product,"Not as good as I expected, but not terrible.",2023-11-05,Author5,4,http://example.com,positive
+Intel Celeron,Very satisfied,"Not as good as I expected, but not terrible.",2023-10-31,Author4,4,http://example.com,positive
+Intel Core i5,Terrible experience,"Just a decent product, nothing special.",2022-08-05,Author6,3,http://example.com,neutral
+Intel Core i7,Could be better,"Exceeded my expectations, very satisfied!",2023-03-09,Author4,1,http://example.com,negative
+Intel Core i5,Could be better,"Just a decent product, nothing special.",2024-07-17,Author2,4,http://example.com,positive
+Intel Xeon,Great product,"Just a decent product, nothing special.",2023-10-17,Author6,2,http://example.com,negative
+Intel Core i5,Great product,"It works okay, but has some issues.",2023-04-09,Author2,2,http://example.com,negative
+Intel Celeron,Terrible experience,"It works okay, but has some issues.",2023-05-12,Author3,5,http://example.com,positive
+Intel Core i9,Great product,"Exceeded my expectations, very satisfied!",2022-09-04,Author6,3,http://example.com,neutral
+Intel Core i7,Great product,"This was a waste of money, very disappointed.",2022-12-09,Author3,4,http://example.com,positive
+Intel Core i7,Decent,"Not as good as I expected, but not terrible.",2022-05-20,Author4,5,http://example.com,positive
+Intel Core i7,Great product,"This was a waste of money, very disappointed.",2022-02-16,Author3,4,http://example.com,positive
+Intel Celeron,Decent,"Just a decent product, nothing special.",2022-11-21,Author5,5,http://example.com,positive
+Intel Core i5,Terrible experience,"This product is amazing, highly recommend!",2024-06-05,Author5,1,http://example.com,negative
+Intel Pentium,Great product,"Exceeded my expectations, very satisfied!",2024-03-16,Author5,3,http://example.com,neutral
+Intel Xeon,Great product,"It works okay, but has some issues.",2022-01-07,Author2,5,http://example.com,positive
+Intel Celeron,Could be better,"Just a decent product, nothing special.",2024-07-29,Author5,2,http://example.com,negative
+Intel Celeron,Very satisfied,"It works okay, but has some issues.",2022-08-18,Author1,2,http://example.com,negative
+Intel Core i7,Very satisfied,"Just a decent product, nothing special.",2023-03-25,Author3,5,http://example.com,positive
+Intel Core i9,Very satisfied,"Just a decent product, nothing special.",2023-01-28,Author3,2,http://example.com,negative
+Intel Pentium,Not bad,"Exceeded my expectations, very satisfied!",2023-07-13,Author2,2,http://example.com,negative
+Intel Core i7,Great product,"It works okay, but has some issues.",2023-11-23,Author3,3,http://example.com,neutral
+Intel Celeron,Terrible experience,"This was a waste of money, very disappointed.",2024-07-29,Author6,2,http://example.com,negative
+Intel Xeon,Great product,"Just a decent product, nothing special.",2023-07-20,Author6,5,http://example.com,positive
+Intel Core i7,Terrible experience,"Not as good as I expected, but not terrible.",2023-01-23,Author2,5,http://example.com,positive
+Intel Core i9,Very satisfied,"Not as good as I expected, but not terrible.",2024-04-13,Author5,4,http://example.com,positive
+Intel Pentium,Could be better,"Not as good as I expected, but not terrible.",2022-11-09,Author4,5,http://example.com,positive
+Intel Core i5,Decent,"This was a waste of money, very disappointed.",2022-04-05,Author3,3,http://example.com,neutral
+Intel Celeron,Decent,"This product is amazing, highly recommend!",2022-03-03,Author3,1,http://example.com,negative
+Intel Xeon,Terrible experience,"Not as good as I expected, but not terrible.",2022-06-12,Author5,2,http://example.com,negative
+Intel Core i7,Not bad,"Just a decent product, nothing special.",2022-06-28,Author3,4,http://example.com,positive
+Intel Celeron,Great product,"It works okay, but has some issues.",2024-08-05,Author1,3,http://example.com,neutral
+Intel Xeon,Very satisfied,"Just a decent product, nothing special.",2022-08-02,Author4,2,http://example.com,negative
+Intel Core i9,Terrible experience,"Exceeded my expectations, very satisfied!",2022-11-03,Author2,4,http://example.com,positive
+Intel Core i5,Very satisfied,"This product is amazing, highly recommend!",2023-11-29,Author2,4,http://example.com,positive
+Intel Xeon,Could be better,"Just a decent product, nothing special.",2022-10-23,Author6,1,http://example.com,negative
+Intel Core i5,Not bad,"Not as good as I expected, but not terrible.",2022-06-25,Author5,2,http://example.com,negative
+Intel Core i7,Great product,"Not as good as I expected, but not terrible.",2023-08-29,Author2,3,http://example.com,neutral
+Intel Pentium,Not bad,"Not as good as I expected, but not terrible.",2024-01-23,Author3,3,http://example.com,neutral
+Intel Core i7,Very satisfied,"This was a waste of money, very disappointed.",2022-01-31,Author6,3,http://example.com,neutral
+Intel Core i5,Very satisfied,"This product is amazing, highly recommend!",2023-07-23,Author1,2,http://example.com,negative
+Intel Core i9,Terrible experience,"This product is amazing, highly recommend!",2024-03-03,Author5,3,http://example.com,neutral
+Intel Celeron,Terrible experience,"Exceeded my expectations, very satisfied!",2024-01-10,Author4,3,http://example.com,neutral
+Intel Pentium,Very satisfied,"Just a decent product, nothing special.",2023-09-04,Author4,3,http://example.com,neutral
+Intel Core i7,Decent,"It works okay, but has some issues.",2023-07-02,Author1,5,http://example.com,positive
+Intel Celeron,Terrible experience,"This product is amazing, highly recommend!",2024-07-15,Author5,2,http://example.com,negative
+Intel Core i5,Very satisfied,"This product is amazing, highly recommend!",2024-08-21,Author1,3,http://example.com,neutral
+Intel Core i7,Could be better,"This product is amazing, highly recommend!",2022-03-16,Author5,5,http://example.com,positive
+Intel Xeon,Terrible experience,"Just a decent product, nothing special.",2023-05-16,Author3,3,http://example.com,neutral
+Intel Core i9,Great product,"Just a decent product, nothing special.",2023-09-25,Author6,2,http://example.com,negative
+Intel Core i5,Very satisfied,"Just a decent product, nothing special.",2023-11-09,Author3,3,http://example.com,neutral
+Intel Xeon,Very satisfied,"Just a decent product, nothing special.",2023-10-17,Author6,5,http://example.com,positive
+Intel Core i5,Great product,"Exceeded my expectations, very satisfied!",2023-04-20,Author6,2,http://example.com,negative
+Intel Pentium,Very satisfied,"It works okay, but has some issues.",2023-05-18,Author1,2,http://example.com,negative
+Intel Core i5,Very satisfied,"This was a waste of money, very disappointed.",2024-04-20,Author1,3,http://example.com,neutral
+Intel Core i9,Terrible experience,"It works okay, but has some issues.",2023-02-15,Author1,5,http://example.com,positive
+Intel Pentium,Terrible experience,"Exceeded my expectations, very satisfied!",2024-03-01,Author4,4,http://example.com,positive
+Intel Core i7,Could be better,"It works okay, but has some issues.",2022-05-22,Author3,5,http://example.com,positive
+Intel Xeon,Decent,"Exceeded my expectations, very satisfied!",2024-04-28,Author5,2,http://example.com,negative
+Intel Pentium,Could be better,"Not as good as I expected, but not terrible.",2024-03-16,Author3,3,http://example.com,neutral
+Intel Core i9,Terrible experience,"This was a waste of money, very disappointed.",2024-01-20,Author2,5,http://example.com,positive
+Intel Core i9,Great product,"Not as good as I expected, but not terrible.",2023-07-07,Author3,1,http://example.com,negative
+Intel Core i9,Decent,"Just a decent product, nothing special.",2023-06-28,Author6,1,http://example.com,negative
+Intel Core i9,Great product,"This was a waste of money, very disappointed.",2022-03-11,Author6,4,http://example.com,positive
+Intel Celeron,Decent,"Exceeded my expectations, very satisfied!",2023-06-21,Author4,4,http://example.com,positive
+Intel Core i9,Not bad,"Exceeded my expectations, very satisfied!",2023-01-09,Author1,1,http://example.com,negative
+Intel Xeon,Terrible experience,"This product is amazing, highly recommend!",2023-01-24,Author2,2,http://example.com,negative
+Intel Core i5,Terrible experience,"Exceeded my expectations, very satisfied!",2022-08-28,Author4,4,http://example.com,positive
+Intel Celeron,Not bad,"Just a decent product, nothing special.",2022-02-20,Author3,2,http://example.com,negative
+Intel Celeron,Very satisfied,"Just a decent product, nothing special.",2023-03-06,Author3,2,http://example.com,negative
+Intel Pentium,Decent,"It works okay, but has some issues.",2023-09-10,Author6,5,http://example.com,positive
+Intel Celeron,Decent,"This was a waste of money, very disappointed.",2024-03-01,Author3,5,http://example.com,positive
+Intel Pentium,Not bad,"Not as good as I expected, but not terrible.",2022-08-25,Author5,4,http://example.com,positive
+Intel Celeron,Decent,"This product is amazing, highly recommend!",2022-10-26,Author5,5,http://example.com,positive
+Intel Core i7,Decent,"Just a decent product, nothing special.",2024-09-20,Author5,4,http://example.com,positive
+Intel Pentium,Not bad,"Not as good as I expected, but not terrible.",2023-03-18,Author2,4,http://example.com,positive
+Intel Celeron,Great product,"Not as good as I expected, but not terrible.",2022-02-11,Author6,2,http://example.com,negative
+Intel Core i5,Could be better,"This product is amazing, highly recommend!",2022-08-12,Author1,1,http://example.com,negative
+Intel Xeon,Decent,"This product is amazing, highly recommend!",2022-03-01,Author2,3,http://example.com,neutral
+Intel Core i5,Could be better,"Just a decent product, nothing special.",2024-01-17,Author1,4,http://example.com,positive
+Intel Core i9,Not bad,"Just a decent product, nothing special.",2022-08-10,Author2,5,http://example.com,positive
+Intel Xeon,Great product,"It works okay, but has some issues.",2023-08-08,Author5,3,http://example.com,neutral
+Intel Pentium,Very satisfied,"Not as good as I expected, but not terrible.",2022-02-11,Author2,2,http://example.com,negative
+Intel Core i5,Could be better,"Exceeded my expectations, very satisfied!",2023-04-06,Author1,4,http://example.com,positive
+Intel Xeon,Great product,"This was a waste of money, very disappointed.",2023-06-19,Author2,4,http://example.com,positive
+Intel Core i5,Decent,"It works okay, but has some issues.",2023-12-13,Author5,4,http://example.com,positive
+Intel Celeron,Terrible experience,"It works okay, but has some issues.",2024-09-19,Author6,3,http://example.com,neutral
+Intel Celeron,Very satisfied,"Not as good as I expected, but not terrible.",2023-04-03,Author1,4,http://example.com,positive
+Intel Core i7,Terrible experience,"Exceeded my expectations, very satisfied!",2024-06-09,Author4,5,http://example.com,positive
+Intel Xeon,Not bad,"Just a decent product, nothing special.",2023-03-10,Author3,5,http://example.com,positive
+Intel Xeon,Very satisfied,"This was a waste of money, very disappointed.",2024-08-07,Author1,4,http://example.com,positive
+Intel Xeon,Not bad,"This was a waste of money, very disappointed.",2022-03-12,Author1,4,http://example.com,positive
+Intel Core i7,Great product,"This product is amazing, highly recommend!",2024-01-07,Author1,4,http://example.com,positive
+Intel Core i7,Terrible experience,"This was a waste of money, very disappointed.",2022-09-20,Author4,5,http://example.com,positive
+Intel Core i9,Could be better,"This was a waste of money, very disappointed.",2023-12-04,Author5,2,http://example.com,negative
+Intel Pentium,Terrible experience,"Exceeded my expectations, very satisfied!",2023-03-10,Author5,5,http://example.com,positive
+Intel Pentium,Not bad,"This was a waste of money, very disappointed.",2022-12-09,Author4,1,http://example.com,negative
+Intel Pentium,Terrible experience,"Just a decent product, nothing special.",2023-04-10,Author6,1,http://example.com,negative
+Intel Celeron,Decent,"This was a waste of money, very disappointed.",2023-10-21,Author5,4,http://example.com,positive
+Intel Pentium,Terrible experience,"This was a waste of money, very disappointed.",2023-01-22,Author2,1,http://example.com,negative
+Intel Pentium,Decent,"Just a decent product, nothing special.",2023-09-26,Author6,4,http://example.com,positive
+Intel Xeon,Not bad,"Not as good as I expected, but not terrible.",2022-04-28,Author4,3,http://example.com,neutral
+Intel Core i7,Great product,"It works okay, but has some issues.",2022-08-23,Author1,2,http://example.com,negative
+Intel Core i5,Very satisfied,"This product is amazing, highly recommend!",2022-05-20,Author4,1,http://example.com,negative
+Intel Core i7,Not bad,"Not as good as I expected, but not terrible.",2022-04-25,Author4,5,http://example.com,positive
+Intel Xeon,Not bad,"This product is amazing, highly recommend!",2023-11-29,Author4,4,http://example.com,positive
+Intel Celeron,Very satisfied,"Exceeded my expectations, very satisfied!",2022-08-02,Author3,4,http://example.com,positive
+Intel Core i5,Could be better,"Not as good as I expected, but not terrible.",2024-05-26,Author1,3,http://example.com,neutral
+Intel Core i7,Not bad,"It works okay, but has some issues.",2023-03-02,Author6,2,http://example.com,negative
+Intel Core i5,Could be better,"This was a waste of money, very disappointed.",2022-02-14,Author6,4,http://example.com,positive
+Intel Core i7,Decent,"Just a decent product, nothing special.",2022-02-27,Author1,1,http://example.com,negative
+Intel Core i7,Very satisfied,"Not as good as I expected, but not terrible.",2023-06-01,Author1,3,http://example.com,neutral
+Intel Xeon,Great product,"This product is amazing, highly recommend!",2022-12-26,Author4,3,http://example.com,neutral
+Intel Core i5,Great product,"Just a decent product, nothing special.",2022-06-20,Author4,5,http://example.com,positive
+Intel Core i9,Great product,"Not as good as I expected, but not terrible.",2024-09-21,Author3,3,http://example.com,neutral
+Intel Core i9,Decent,"This product is amazing, highly recommend!",2022-08-31,Author6,3,http://example.com,neutral
+Intel Core i9,Great product,"This was a waste of money, very disappointed.",2023-09-13,Author5,5,http://example.com,positive
+Intel Core i5,Terrible experience,"Exceeded my expectations, very satisfied!",2023-02-23,Author6,5,http://example.com,positive
+Intel Core i7,Decent,"It works okay, but has some issues.",2023-09-08,Author1,5,http://example.com,positive
+Intel Core i9,Not bad,"Just a decent product, nothing special.",2024-06-10,Author6,5,http://example.com,positive
+Intel Xeon,Decent,"It works okay, but has some issues.",2023-01-17,Author3,1,http://example.com,negative
+Intel Core i9,Terrible experience,"Not as good as I expected, but not terrible.",2022-09-20,Author4,3,http://example.com,neutral
+Intel Core i5,Very satisfied,"This was a waste of money, very disappointed.",2024-02-18,Author2,2,http://example.com,negative
+Intel Xeon,Decent,"Not as good as I expected, but not terrible.",2024-02-29,Author6,2,http://example.com,negative
+Intel Xeon,Terrible experience,"Exceeded my expectations, very satisfied!",2023-03-19,Author2,2,http://example.com,negative
+Intel Celeron,Very satisfied,"Exceeded my expectations, very satisfied!",2022-05-20,Author2,1,http://example.com,negative
+Intel Pentium,Decent,"It works okay, but has some issues.",2022-05-07,Author3,5,http://example.com,positive
+Intel Pentium,Great product,"This product is amazing, highly recommend!",2023-09-07,Author6,2,http://example.com,negative
+Intel Core i7,Very satisfied,"Just a decent product, nothing special.",2022-08-11,Author2,4,http://example.com,positive
+Intel Pentium,Great product,"This was a waste of money, very disappointed.",2023-10-12,Author1,5,http://example.com,positive
+Intel Core i7,Terrible experience,"Just a decent product, nothing special.",2022-06-09,Author3,5,http://example.com,positive
+Intel Xeon,Could be better,"It works okay, but has some issues.",2022-03-13,Author3,2,http://example.com,negative
+Intel Xeon,Could be better,"This product is amazing, highly recommend!",2022-02-08,Author3,4,http://example.com,positive
+Intel Pentium,Decent,"This product is amazing, highly recommend!",2024-03-31,Author5,5,http://example.com,positive
+Intel Pentium,Great product,"It works okay, but has some issues.",2024-05-21,Author5,1,http://example.com,negative
+Intel Celeron,Decent,"Exceeded my expectations, very satisfied!",2024-07-18,Author3,1,http://example.com,negative
+Intel Core i5,Great product,"Exceeded my expectations, very satisfied!",2024-08-28,Author6,5,http://example.com,positive
+Intel Core i7,Great product,"This product is amazing, highly recommend!",2022-12-18,Author3,3,http://example.com,neutral
+Intel Core i7,Very satisfied,"This product is amazing, highly recommend!",2023-10-25,Author3,4,http://example.com,positive
+Intel Celeron,Very satisfied,"Not as good as I expected, but not terrible.",2023-04-15,Author5,1,http://example.com,negative
+Intel Pentium,Terrible experience,"Not as good as I expected, but not terrible.",2022-11-19,Author6,5,http://example.com,positive
+Intel Celeron,Great product,"This was a waste of money, very disappointed.",2023-11-10,Author5,4,http://example.com,positive
+Intel Xeon,Decent,"Exceeded my expectations, very satisfied!",2022-10-30,Author1,2,http://example.com,negative
+Intel Core i5,Great product,"This product is amazing, highly recommend!",2022-03-04,Author5,3,http://example.com,neutral
+Intel Core i7,Decent,"Just a decent product, nothing special.",2022-05-07,Author5,1,http://example.com,negative
+Intel Core i7,Decent,"This product is amazing, highly recommend!",2024-06-10,Author6,1,http://example.com,negative
+Intel Core i7,Terrible experience,"This was a waste of money, very disappointed.",2023-10-02,Author1,3,http://example.com,neutral
+Intel Core i7,Decent,"Exceeded my expectations, very satisfied!",2024-02-24,Author2,1,http://example.com,negative
+Intel Core i5,Terrible experience,"This product is amazing, highly recommend!",2023-02-14,Author4,2,http://example.com,negative
+Intel Core i5,Could be better,"It works okay, but has some issues.",2024-06-27,Author1,1,http://example.com,negative
+Intel Celeron,Could be better,"Not as good as I expected, but not terrible.",2022-10-25,Author3,4,http://example.com,positive
+Intel Celeron,Not bad,"Exceeded my expectations, very satisfied!",2024-07-13,Author2,1,http://example.com,negative
+Intel Core i5,Great product,"This was a waste of money, very disappointed.",2023-09-28,Author6,1,http://example.com,negative
+Intel Core i5,Not bad,"Exceeded my expectations, very satisfied!",2024-06-22,Author2,5,http://example.com,positive
+Intel Celeron,Could be better,"This was a waste of money, very disappointed.",2023-08-01,Author3,4,http://example.com,positive
+Intel Xeon,Not bad,"This was a waste of money, very disappointed.",2023-07-23,Author1,3,http://example.com,neutral
+Intel Core i5,Terrible experience,"This was a waste of money, very disappointed.",2022-03-15,Author5,1,http://example.com,negative
+Intel Core i7,Decent,"Not as good as I expected, but not terrible.",2023-03-29,Author4,4,http://example.com,positive
+Intel Core i5,Not bad,"Exceeded my expectations, very satisfied!",2023-06-26,Author1,1,http://example.com,negative
+Intel Pentium,Very satisfied,"It works okay, but has some issues.",2023-02-28,Author4,4,http://example.com,positive
+Intel Celeron,Decent,"Exceeded my expectations, very satisfied!",2022-01-28,Author4,2,http://example.com,negative
+Intel Xeon,Great product,"Just a decent product, nothing special.",2024-04-20,Author4,1,http://example.com,negative
+Intel Celeron,Not bad,"Exceeded my expectations, very satisfied!",2022-12-12,Author5,5,http://example.com,positive
+Intel Core i7,Decent,"This product is amazing, highly recommend!",2022-11-20,Author4,2,http://example.com,negative
+Intel Pentium,Terrible experience,"Not as good as I expected, but not terrible.",2024-01-28,Author2,4,http://example.com,positive
+Intel Core i7,Terrible experience,"Just a decent product, nothing special.",2022-09-22,Author1,4,http://example.com,positive
+Intel Core i9,Not bad,"Not as good as I expected, but not terrible.",2022-07-08,Author4,5,http://example.com,positive
+Intel Celeron,Not bad,"Exceeded my expectations, very satisfied!",2022-01-16,Author3,1,http://example.com,negative
+Intel Core i7,Not bad,"This was a waste of money, very disappointed.",2024-01-31,Author2,5,http://example.com,positive
+Intel Celeron,Great product,"Just a decent product, nothing special.",2023-11-15,Author5,1,http://example.com,negative
+Intel Celeron,Very satisfied,"Exceeded my expectations, very satisfied!",2023-04-25,Author6,2,http://example.com,negative
+Intel Xeon,Decent,"Just a decent product, nothing special.",2023-07-28,Author1,1,http://example.com,negative
+Intel Xeon,Terrible experience,"This product is amazing, highly recommend!",2023-04-18,Author5,1,http://example.com,negative
+Intel Celeron,Great product,"This product is amazing, highly recommend!",2023-08-02,Author4,4,http://example.com,positive
+Intel Pentium,Not bad,"This was a waste of money, very disappointed.",2022-11-05,Author6,5,http://example.com,positive
+Intel Celeron,Very satisfied,"This was a waste of money, very disappointed.",2022-01-06,Author5,1,http://example.com,negative
+Intel Core i7,Great product,"Not as good as I expected, but not terrible.",2023-01-10,Author3,5,http://example.com,positive
+Intel Celeron,Great product,"Exceeded my expectations, very satisfied!",2022-08-20,Author4,5,http://example.com,positive
+Intel Pentium,Could be better,"This product is amazing, highly recommend!",2022-07-13,Author2,2,http://example.com,negative
+Intel Pentium,Great product,"It works okay, but has some issues.",2022-08-10,Author5,4,http://example.com,positive
+Intel Core i5,Decent,"It works okay, but has some issues.",2023-05-20,Author1,1,http://example.com,negative
+Intel Core i7,Terrible experience,"Exceeded my expectations, very satisfied!",2024-06-16,Author6,1,http://example.com,negative
+Intel Celeron,Could be better,"This was a waste of money, very disappointed.",2023-01-29,Author4,1,http://example.com,negative
+Intel Xeon,Could be better,"It works okay, but has some issues.",2024-04-05,Author6,2,http://example.com,negative
+Intel Core i5,Not bad,"Not as good as I expected, but not terrible.",2023-12-17,Author6,3,http://example.com,neutral
+Intel Celeron,Terrible experience,"Not as good as I expected, but not terrible.",2023-04-14,Author4,4,http://example.com,positive
+Intel Xeon,Not bad,"This was a waste of money, very disappointed.",2022-08-24,Author1,1,http://example.com,negative
+Intel Core i7,Decent,"Just a decent product, nothing special.",2023-04-03,Author2,4,http://example.com,positive
+Intel Core i9,Terrible experience,"This product is amazing, highly recommend!",2022-07-25,Author1,4,http://example.com,positive
+Intel Pentium,Not bad,"Not as good as I expected, but not terrible.",2022-03-06,Author2,5,http://example.com,positive
+Intel Core i7,Not bad,"It works okay, but has some issues.",2023-12-18,Author1,2,http://example.com,negative
+Intel Pentium,Great product,"It works okay, but has some issues.",2023-09-15,Author6,4,http://example.com,positive
+Intel Core i7,Decent,"This was a waste of money, very disappointed.",2023-06-16,Author4,1,http://example.com,negative
+Intel Core i9,Very satisfied,"It works okay, but has some issues.",2022-03-03,Author2,5,http://example.com,positive
+Intel Pentium,Terrible experience,"This product is amazing, highly recommend!",2023-12-01,Author3,2,http://example.com,negative
+Intel Core i9,Great product,"Not as good as I expected, but not terrible.",2024-01-01,Author6,3,http://example.com,neutral
+Intel Pentium,Decent,"This product is amazing, highly recommend!",2022-02-14,Author1,4,http://example.com,positive
+Intel Pentium,Very satisfied,"It works okay, but has some issues.",2024-03-15,Author4,4,http://example.com,positive
+Intel Xeon,Decent,"Exceeded my expectations, very satisfied!",2022-05-15,Author4,1,http://example.com,negative
+Intel Core i9,Not bad,"Not as good as I expected, but not terrible.",2024-09-14,Author6,2,http://example.com,negative
+Intel Celeron,Terrible experience,"Just a decent product, nothing special.",2022-04-06,Author4,2,http://example.com,negative
+Intel Core i7,Great product,"It works okay, but has some issues.",2023-11-29,Author1,4,http://example.com,positive
+Intel Core i7,Great product,"This product is amazing, highly recommend!",2024-02-27,Author1,3,http://example.com,neutral
+Intel Celeron,Terrible experience,"This product is amazing, highly recommend!",2024-08-16,Author4,4,http://example.com,positive
+Intel Core i7,Great product,"It works okay, but has some issues.",2022-05-03,Author3,4,http://example.com,positive
+Intel Core i9,Could be better,"It works okay, but has some issues.",2023-06-22,Author1,2,http://example.com,negative
+Intel Core i7,Great product,"This was a waste of money, very disappointed.",2023-01-11,Author1,3,http://example.com,neutral
+Intel Core i7,Very satisfied,"Not as good as I expected, but not terrible.",2023-12-20,Author4,5,http://example.com,positive
+Intel Xeon,Great product,"Exceeded my expectations, very satisfied!",2022-07-08,Author4,1,http://example.com,negative
+Intel Core i7,Very satisfied,"This product is amazing, highly recommend!",2023-09-29,Author3,2,http://example.com,negative
+Intel Core i7,Great product,"Not as good as I expected, but not terrible.",2022-01-30,Author2,5,http://example.com,positive
+Intel Core i5,Not bad,"This was a waste of money, very disappointed.",2023-10-13,Author6,2,http://example.com,negative
+Intel Core i5,Decent,"This product is amazing, highly recommend!",2024-03-19,Author1,3,http://example.com,neutral
+Intel Core i7,Very satisfied,"Just a decent product, nothing special.",2022-04-18,Author1,4,http://example.com,positive
+Intel Xeon,Could be better,"Just a decent product, nothing special.",2023-05-21,Author1,3,http://example.com,neutral
+Intel Core i9,Very satisfied,"This was a waste of money, very disappointed.",2024-08-22,Author4,3,http://example.com,neutral
+Intel Xeon,Could be better,"Exceeded my expectations, very satisfied!",2022-11-06,Author1,2,http://example.com,negative
+Intel Celeron,Could be better,"Exceeded my expectations, very satisfied!",2023-10-03,Author2,2,http://example.com,negative
+Intel Core i5,Terrible experience,"This product is amazing, highly recommend!",2022-02-21,Author4,3,http://example.com,neutral
+Intel Core i9,Terrible experience,"It works okay, but has some issues.",2022-10-23,Author4,5,http://example.com,positive
+Intel Core i9,Decent,"It works okay, but has some issues.",2022-01-05,Author4,2,http://example.com,negative
+Intel Core i5,Could be better,"This was a waste of money, very disappointed.",2024-01-09,Author5,4,http://example.com,positive
+Intel Core i9,Terrible experience,"This was a waste of money, very disappointed.",2023-04-26,Author1,2,http://example.com,negative
+Intel Pentium,Decent,"Not as good as I expected, but not terrible.",2022-01-20,Author1,4,http://example.com,positive
+Intel Celeron,Decent,"Just a decent product, nothing special.",2022-11-13,Author5,4,http://example.com,positive
+Intel Core i9,Very satisfied,"This product is amazing, highly recommend!",2024-06-11,Author3,2,http://example.com,negative
+Intel Core i9,Decent,"Exceeded my expectations, very satisfied!",2023-04-30,Author3,1,http://example.com,negative
+Intel Core i5,Great product,"This product is amazing, highly recommend!",2024-03-14,Author3,4,http://example.com,positive
+Intel Core i7,Great product,"Not as good as I expected, but not terrible.",2022-03-18,Author1,5,http://example.com,positive
+Intel Pentium,Could be better,"This product is amazing, highly recommend!",2024-02-28,Author6,4,http://example.com,positive
+Intel Core i5,Decent,"It works okay, but has some issues.",2022-05-12,Author6,5,http://example.com,positive
+Intel Pentium,Very satisfied,"It works okay, but has some issues.",2023-05-31,Author3,3,http://example.com,neutral
+Intel Core i5,Great product,"This product is amazing, highly recommend!",2023-09-10,Author1,4,http://example.com,positive
+Intel Core i7,Very satisfied,"Not as good as I expected, but not terrible.",2022-01-20,Author4,1,http://example.com,negative
+Intel Xeon,Very satisfied,"Not as good as I expected, but not terrible.",2022-01-14,Author6,4,http://example.com,positive
+Intel Core i7,Not bad,"Just a decent product, nothing special.",2022-01-05,Author4,1,http://example.com,negative
+Intel Pentium,Could be better,"This was a waste of money, very disappointed.",2022-01-27,Author1,1,http://example.com,negative
+Intel Pentium,Could be better,"Not as good as I expected, but not terrible.",2023-08-16,Author5,4,http://example.com,positive
+Intel Celeron,Very satisfied,"Just a decent product, nothing special.",2022-07-26,Author3,4,http://example.com,positive
+Intel Core i7,Decent,"Not as good as I expected, but not terrible.",2024-06-05,Author1,1,http://example.com,negative
+Intel Core i9,Decent,"This product is amazing, highly recommend!",2024-05-30,Author3,2,http://example.com,negative
+Intel Core i5,Decent,"It works okay, but has some issues.",2022-08-26,Author5,4,http://example.com,positive
+Intel Core i9,Could be better,"Just a decent product, nothing special.",2023-06-02,Author1,1,http://example.com,negative
+Intel Celeron,Decent,"Exceeded my expectations, very satisfied!",2023-01-30,Author3,4,http://example.com,positive
+Intel Core i5,Decent,"This product is amazing, highly recommend!",2023-07-04,Author4,3,http://example.com,neutral
+Intel Pentium,Decent,"This was a waste of money, very disappointed.",2022-08-06,Author1,4,http://example.com,positive
+Intel Celeron,Decent,"Exceeded my expectations, very satisfied!",2024-05-08,Author3,5,http://example.com,positive
+Intel Core i5,Decent,"Not as good as I expected, but not terrible.",2024-08-04,Author5,4,http://example.com,positive
+Intel Core i9,Very satisfied,"Just a decent product, nothing special.",2023-07-20,Author5,4,http://example.com,positive
+Intel Core i7,Not bad,"Exceeded my expectations, very satisfied!",2022-10-09,Author3,1,http://example.com,negative
+Intel Core i5,Terrible experience,"Not as good as I expected, but not terrible.",2023-01-09,Author4,5,http://example.com,positive
+Intel Celeron,Very satisfied,"Exceeded my expectations, very satisfied!",2023-07-23,Author2,5,http://example.com,positive
+Intel Celeron,Decent,"This was a waste of money, very disappointed.",2024-02-13,Author6,4,http://example.com,positive
+Intel Pentium,Great product,"Exceeded my expectations, very satisfied!",2023-07-13,Author6,4,http://example.com,positive
+Intel Celeron,Terrible experience,"Not as good as I expected, but not terrible.",2022-03-28,Author4,4,http://example.com,positive
+Intel Core i7,Terrible experience,"It works okay, but has some issues.",2023-05-03,Author4,1,http://example.com,negative
+Intel Xeon,Terrible experience,"This was a waste of money, very disappointed.",2024-07-02,Author1,4,http://example.com,positive
+Intel Xeon,Could be better,"Just a decent product, nothing special.",2024-06-06,Author6,1,http://example.com,negative
+Intel Core i9,Decent,"Exceeded my expectations, very satisfied!",2024-07-13,Author4,3,http://example.com,neutral
+Intel Core i7,Very satisfied,"Just a decent product, nothing special.",2022-04-10,Author2,2,http://example.com,negative
+Intel Pentium,Terrible experience,"This was a waste of money, very disappointed.",2024-08-28,Author6,3,http://example.com,neutral
+Intel Pentium,Could be better,"Not as good as I expected, but not terrible.",2022-06-06,Author2,1,http://example.com,negative
+Intel Xeon,Decent,"This product is amazing, highly recommend!",2023-02-01,Author5,1,http://example.com,negative
+Intel Celeron,Not bad,"Exceeded my expectations, very satisfied!",2022-12-24,Author1,1,http://example.com,negative
+Intel Core i5,Could be better,"Not as good as I expected, but not terrible.",2022-02-28,Author6,3,http://example.com,neutral
+Intel Core i5,Great product,"Exceeded my expectations, very satisfied!",2023-09-16,Author3,2,http://example.com,negative
+Intel Pentium,Terrible experience,"This product is amazing, highly recommend!",2022-06-10,Author2,5,http://example.com,positive
+Intel Core i5,Decent,"Just a decent product, nothing special.",2023-07-01,Author3,4,http://example.com,positive
+Intel Core i9,Very satisfied,"Not as good as I expected, but not terrible.",2024-06-12,Author1,1,http://example.com,negative
+Intel Core i9,Could be better,"Exceeded my expectations, very satisfied!",2022-03-27,Author6,2,http://example.com,negative
+Intel Xeon,Could be better,"Not as good as I expected, but not terrible.",2024-02-08,Author1,4,http://example.com,positive
+Intel Pentium,Not bad,"Not as good as I expected, but not terrible.",2022-03-21,Author6,2,http://example.com,negative
+Intel Core i9,Very satisfied,"Just a decent product, nothing special.",2022-03-01,Author3,5,http://example.com,positive
+Intel Celeron,Great product,"This product is amazing, highly recommend!",2022-07-18,Author5,4,http://example.com,positive
+Intel Xeon,Could be better,"This product is amazing, highly recommend!",2024-04-25,Author5,3,http://example.com,neutral
+Intel Core i9,Could be better,"Not as good as I expected, but not terrible.",2023-11-13,Author6,1,http://example.com,negative
+Intel Xeon,Not bad,"This product is amazing, highly recommend!",2024-08-28,Author2,1,http://example.com,negative
+Intel Celeron,Terrible experience,"Exceeded my expectations, very satisfied!",2024-04-06,Author6,1,http://example.com,negative
+Intel Core i9,Terrible experience,"It works okay, but has some issues.",2022-07-29,Author1,2,http://example.com,negative
+Intel Core i9,Great product,"It works okay, but has some issues.",2022-12-13,Author3,1,http://example.com,negative
+Intel Core i5,Very satisfied,"This product is amazing, highly recommend!",2022-10-12,Author2,4,http://example.com,positive
+Intel Core i7,Decent,"Exceeded my expectations, very satisfied!",2023-12-24,Author3,5,http://example.com,positive
+Intel Core i9,Great product,"Not as good as I expected, but not terrible.",2024-08-30,Author3,1,http://example.com,negative
+Intel Celeron,Very satisfied,"Just a decent product, nothing special.",2022-04-09,Author6,2,http://example.com,negative
+Intel Pentium,Decent,"It works okay, but has some issues.",2022-10-11,Author1,1,http://example.com,negative
+Intel Pentium,Decent,"It works okay, but has some issues.",2023-04-13,Author4,1,http://example.com,negative
+Intel Pentium,Could be better,"Not as good as I expected, but not terrible.",2023-06-09,Author1,4,http://example.com,positive
+Intel Celeron,Very satisfied,"This product is amazing, highly recommend!",2024-02-26,Author2,3,http://example.com,neutral
+Intel Core i5,Terrible experience,"Exceeded my expectations, very satisfied!",2022-03-08,Author4,3,http://example.com,neutral
+Intel Core i9,Very satisfied,"Not as good as I expected, but not terrible.",2022-10-04,Author6,2,http://example.com,negative
+Intel Core i7,Terrible experience,"Exceeded my expectations, very satisfied!",2022-12-06,Author4,2,http://example.com,negative
+Intel Celeron,Very satisfied,"Just a decent product, nothing special.",2023-07-20,Author6,5,http://example.com,positive
+Intel Core i7,Could be better,"This was a waste of money, very disappointed.",2024-01-02,Author5,2,http://example.com,negative
+Intel Core i7,Could be better,"Exceeded my expectations, very satisfied!",2023-10-13,Author1,4,http://example.com,positive
+Intel Celeron,Not bad,"Not as good as I expected, but not terrible.",2023-05-23,Author4,2,http://example.com,negative
+Intel Core i9,Decent,"Not as good as I expected, but not terrible.",2022-08-18,Author1,2,http://example.com,negative
+Intel Xeon,Terrible experience,"This was a waste of money, very disappointed.",2023-08-20,Author5,3,http://example.com,neutral
+Intel Celeron,Terrible experience,"Not as good as I expected, but not terrible.",2022-11-17,Author6,5,http://example.com,positive
+Intel Core i9,Very satisfied,"Just a decent product, nothing special.",2024-08-18,Author3,1,http://example.com,negative
+Intel Core i9,Could be better,"Exceeded my expectations, very satisfied!",2022-11-13,Author3,1,http://example.com,negative
+Intel Xeon,Very satisfied,"It works okay, but has some issues.",2023-08-10,Author4,2,http://example.com,negative
+Intel Xeon,Terrible experience,"Not as good as I expected, but not terrible.",2022-03-23,Author2,4,http://example.com,positive
+Intel Celeron,Great product,"Just a decent product, nothing special.",2022-09-20,Author5,4,http://example.com,positive
+Intel Xeon,Great product,"Just a decent product, nothing special.",2023-06-09,Author3,1,http://example.com,negative
+Intel Core i7,Very satisfied,"Just a decent product, nothing special.",2023-09-26,Author1,1,http://example.com,negative
+Intel Core i7,Great product,"Just a decent product, nothing special.",2022-05-26,Author6,2,http://example.com,negative
+Intel Pentium,Could be better,"Exceeded my expectations, very satisfied!",2023-02-17,Author1,4,http://example.com,positive
+Intel Pentium,Could be better,"This was a waste of money, very disappointed.",2023-01-27,Author4,2,http://example.com,negative
+Intel Pentium,Not bad,"It works okay, but has some issues.",2022-03-18,Author6,5,http://example.com,positive
+Intel Xeon,Decent,"It works okay, but has some issues.",2024-07-12,Author5,5,http://example.com,positive
+Intel Pentium,Great product,"Not as good as I expected, but not terrible.",2022-02-28,Author2,5,http://example.com,positive
+Intel Core i7,Great product,"This was a waste of money, very disappointed.",2022-10-04,Author4,4,http://example.com,positive
+Intel Core i5,Not bad,"Not as good as I expected, but not terrible.",2023-04-26,Author3,4,http://example.com,positive
+Intel Core i7,Terrible experience,"It works okay, but has some issues.",2023-07-27,Author5,5,http://example.com,positive
+Intel Celeron,Very satisfied,"Exceeded my expectations, very satisfied!",2022-10-25,Author3,2,http://example.com,negative
+Intel Xeon,Could be better,"It works okay, but has some issues.",2023-03-19,Author6,5,http://example.com,positive
+Intel Core i9,Not bad,"Just a decent product, nothing special.",2024-08-20,Author5,2,http://example.com,negative
+Intel Core i7,Not bad,"Just a decent product, nothing special.",2022-06-04,Author3,4,http://example.com,positive
+Intel Pentium,Great product,"Just a decent product, nothing special.",2023-01-22,Author4,4,http://example.com,positive
+Intel Xeon,Very satisfied,"Exceeded my expectations, very satisfied!",2022-03-08,Author5,2,http://example.com,negative
+Intel Core i9,Decent,"This product is amazing, highly recommend!",2022-07-12,Author4,5,http://example.com,positive
+Intel Core i7,Not bad,"Exceeded my expectations, very satisfied!",2023-03-01,Author6,5,http://example.com,positive
+Intel Pentium,Very satisfied,"Exceeded my expectations, very satisfied!",2023-10-05,Author1,5,http://example.com,positive
+Intel Celeron,Could be better,"It works okay, but has some issues.",2022-01-01,Author2,4,http://example.com,positive
+Intel Celeron,Great product,"Just a decent product, nothing special.",2023-08-21,Author6,4,http://example.com,positive
+Intel Celeron,Great product,"This was a waste of money, very disappointed.",2023-05-01,Author2,1,http://example.com,negative
+Intel Core i9,Could be better,"It works okay, but has some issues.",2022-10-11,Author1,2,http://example.com,negative
+Intel Xeon,Very satisfied,"This product is amazing, highly recommend!",2023-09-24,Author3,3,http://example.com,neutral
+Intel Core i7,Decent,"It works okay, but has some issues.",2022-06-16,Author1,5,http://example.com,positive
+Intel Xeon,Not bad,"It works okay, but has some issues.",2024-09-09,Author2,5,http://example.com,positive
+Intel Core i9,Could be better,"This was a waste of money, very disappointed.",2023-11-17,Author4,2,http://example.com,negative
+Intel Core i5,Very satisfied,"Just a decent product, nothing special.",2022-01-05,Author5,1,http://example.com,negative
+Intel Xeon,Very satisfied,"Exceeded my expectations, very satisfied!",2022-11-21,Author6,5,http://example.com,positive
+Intel Celeron,Decent,"Not as good as I expected, but not terrible.",2023-02-18,Author1,4,http://example.com,positive
+Intel Core i5,Not bad,"It works okay, but has some issues.",2024-05-26,Author6,4,http://example.com,positive
+Intel Celeron,Great product,"This was a waste of money, very disappointed.",2022-03-07,Author2,3,http://example.com,neutral
+Intel Core i7,Not bad,"It works okay, but has some issues.",2024-08-18,Author2,1,http://example.com,negative
+Intel Xeon,Very satisfied,"This was a waste of money, very disappointed.",2022-02-01,Author2,5,http://example.com,positive
+Intel Core i5,Very satisfied,"This was a waste of money, very disappointed.",2024-09-22,Author3,2,http://example.com,negative
+Intel Core i5,Not bad,"Just a decent product, nothing special.",2024-02-14,Author2,2,http://example.com,negative
+Intel Pentium,Not bad,"It works okay, but has some issues.",2024-07-20,Author4,4,http://example.com,positive
+Intel Pentium,Terrible experience,"It works okay, but has some issues.",2023-05-13,Author4,2,http://example.com,negative
+Intel Xeon,Decent,"This was a waste of money, very disappointed.",2024-07-11,Author4,3,http://example.com,neutral
+Intel Pentium,Great product,"Exceeded my expectations, very satisfied!",2023-04-17,Author3,1,http://example.com,negative
+Intel Celeron,Not bad,"It works okay, but has some issues.",2023-07-02,Author3,5,http://example.com,positive
+Intel Core i9,Not bad,"This was a waste of money, very disappointed.",2022-10-30,Author5,5,http://example.com,positive
+Intel Core i5,Not bad,"It works okay, but has some issues.",2023-06-08,Author5,3,http://example.com,neutral
+Intel Celeron,Terrible experience,"Not as good as I expected, but not terrible.",2023-01-07,Author2,5,http://example.com,positive
+Intel Pentium,Not bad,"Not as good as I expected, but not terrible.",2023-02-20,Author3,2,http://example.com,negative
+Intel Xeon,Terrible experience,"Exceeded my expectations, very satisfied!",2022-02-15,Author6,1,http://example.com,negative
+Intel Core i9,Decent,"This product is amazing, highly recommend!",2024-03-04,Author3,5,http://example.com,positive
+Intel Xeon,Could be better,"It works okay, but has some issues.",2024-01-22,Author1,2,http://example.com,negative
+Intel Pentium,Not bad,"It works okay, but has some issues.",2023-10-01,Author5,1,http://example.com,negative
+Intel Core i5,Not bad,"This product is amazing, highly recommend!",2024-01-19,Author4,4,http://example.com,positive
+Intel Core i7,Not bad,"This product is amazing, highly recommend!",2022-06-05,Author6,4,http://example.com,positive
+Intel Xeon,Decent,"Exceeded my expectations, very satisfied!",2022-03-25,Author1,2,http://example.com,negative
+Intel Core i9,Could be better,"It works okay, but has some issues.",2023-01-02,Author1,2,http://example.com,negative
+Intel Core i9,Great product,"It works okay, but has some issues.",2023-05-22,Author2,5,http://example.com,positive
+Intel Core i9,Great product,"This was a waste of money, very disappointed.",2023-06-19,Author4,2,http://example.com,negative
+Intel Celeron,Very satisfied,"Just a decent product, nothing special.",2024-06-21,Author1,5,http://example.com,positive
+Intel Pentium,Decent,"Not as good as I expected, but not terrible.",2023-01-25,Author4,2,http://example.com,negative
+Intel Xeon,Very satisfied,"This was a waste of money, very disappointed.",2022-11-17,Author3,4,http://example.com,positive
+Intel Pentium,Decent,"Exceeded my expectations, very satisfied!",2023-07-26,Author2,3,http://example.com,neutral
+Intel Core i7,Could be better,"Exceeded my expectations, very satisfied!",2022-12-25,Author6,5,http://example.com,positive
+Intel Xeon,Could be better,"This was a waste of money, very disappointed.",2023-01-23,Author1,2,http://example.com,negative
+Intel Core i9,Terrible experience,"This was a waste of money, very disappointed.",2024-06-22,Author3,2,http://example.com,negative
+Intel Celeron,Could be better,"Not as good as I expected, but not terrible.",2023-08-10,Author4,2,http://example.com,negative
+Intel Celeron,Not bad,"This was a waste of money, very disappointed.",2023-12-14,Author3,5,http://example.com,positive
+Intel Core i9,Great product,"Just a decent product, nothing special.",2024-02-28,Author6,1,http://example.com,negative
+Intel Celeron,Not bad,"It works okay, but has some issues.",2022-04-05,Author6,2,http://example.com,negative
+Intel Pentium,Very satisfied,"Exceeded my expectations, very satisfied!",2024-01-13,Author4,3,http://example.com,neutral
+Intel Celeron,Decent,"Exceeded my expectations, very satisfied!",2023-07-19,Author5,3,http://example.com,neutral
+Intel Pentium,Not bad,"Just a decent product, nothing special.",2022-12-08,Author5,2,http://example.com,negative
+Intel Core i5,Very satisfied,"This product is amazing, highly recommend!",2022-03-23,Author1,3,http://example.com,neutral
+Intel Core i7,Great product,"This product is amazing, highly recommend!",2023-07-17,Author5,3,http://example.com,neutral
+Intel Core i5,Terrible experience,"This product is amazing, highly recommend!",2022-03-14,Author3,4,http://example.com,positive
+Intel Core i7,Great product,"This product is amazing, highly recommend!",2022-01-03,Author1,4,http://example.com,positive
+Intel Core i9,Not bad,"Just a decent product, nothing special.",2023-05-18,Author2,5,http://example.com,positive
+Intel Core i5,Terrible experience,"It works okay, but has some issues.",2023-06-05,Author3,2,http://example.com,negative
+Intel Core i9,Very satisfied,"Just a decent product, nothing special.",2022-02-10,Author6,2,http://example.com,negative
+Intel Core i5,Very satisfied,"Not as good as I expected, but not terrible.",2022-03-28,Author4,4,http://example.com,positive
+Intel Core i9,Could be better,"Just a decent product, nothing special.",2023-08-26,Author5,3,http://example.com,neutral
+Intel Pentium,Could be better,"Not as good as I expected, but not terrible.",2022-12-18,Author4,5,http://example.com,positive
+Intel Core i5,Great product,"Exceeded my expectations, very satisfied!",2022-06-29,Author6,5,http://example.com,positive
+Intel Celeron,Very satisfied,"Just a decent product, nothing special.",2023-02-28,Author5,4,http://example.com,positive
+Intel Celeron,Not bad,"This was a waste of money, very disappointed.",2023-05-19,Author4,1,http://example.com,negative
+Intel Core i9,Not bad,"This was a waste of money, very disappointed.",2023-01-10,Author1,2,http://example.com,negative
+Intel Xeon,Very satisfied,"This was a waste of money, very disappointed.",2022-08-19,Author1,1,http://example.com,negative
+Intel Celeron,Not bad,"It works okay, but has some issues.",2022-08-21,Author5,3,http://example.com,neutral
+Intel Celeron,Decent,"Not as good as I expected, but not terrible.",2023-01-10,Author2,3,http://example.com,neutral
+Intel Celeron,Could be better,"This was a waste of money, very disappointed.",2024-03-10,Author1,2,http://example.com,negative
+Intel Core i5,Great product,"Exceeded my expectations, very satisfied!",2023-11-22,Author5,2,http://example.com,negative
+Intel Celeron,Could be better,"Just a decent product, nothing special.",2023-08-05,Author3,3,http://example.com,neutral
