@@ -8,6 +8,8 @@
 # testing
 /coverage
 
+#jupyter
+/.ipynb_checkpoints
 
 # production
 /build
