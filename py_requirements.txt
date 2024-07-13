@@ -1,0 +1,14 @@
+flask
+beautifulsoup4
+flask_cors
+Werkzeug
+setuptools
+python-dotenv
+pandas
+matplotlib
+wordcloud
+requests
+torch
+transformers
+spacy
+textblob

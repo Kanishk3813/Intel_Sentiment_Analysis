@@ -6,31 +6,31 @@ app = Flask(__name__)
 CORS(app)
 
 # Load the cleaned CSV file into a DataFrame
-file_path = 'backend/generated_reviews.csv'
+file_path = 'backend/output.csv'
 df = pd.read_csv(file_path)
-df['date'] = pd.to_datetime(df['date'])
+df['date'] = pd.to_datetime(df['date'],format = "%d-%m-%Y")
 
 @app.route('/past-trends', methods=['GET'])
 def get_past_trends():
     # Extract product names
-    products = df['product'].unique()
+    products = df['category'].unique()
     
     trends = []
     for product in products:
-        product_df = df[df['product'] == product]
+        product_df = df[df['category'] == product]
         product_trends = {
-            'product': product,
+            'product': "Intel Core "+product+" Processor",
             'description': f'Sentiment analysis for {product}.',
             'sentiments': {
-                'positive': int((product_df['sentiment'] == 'positive').sum()),
-                'neutral': int((product_df['sentiment'] == 'neutral').sum()),
-                'negative': int((product_df['sentiment'] == 'negative').sum())
+                'positive': int((product_df['sentiment'] == 'Positive').sum()),
+                'neutral': int((product_df['sentiment'] == 'Neutral').sum()),
+                'negative': int((product_df['sentiment'] == 'Negative').sum())
             },
             'dates': product_df['date'].dt.strftime('%Y-%m-%d').tolist(),
             'reviews': product_df['content'].tolist()
         }
         trends.append(product_trends)
-        print("Trends:", trends)
+        # print("Trends:", trends)
     
     return jsonify(trends)
 

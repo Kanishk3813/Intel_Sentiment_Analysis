@@ -3,6 +3,9 @@ import { Line } from 'react-chartjs-2';
 import { Chart as ChartJS } from 'chart.js/auto';
 
 const EDA = ({ reviews }) => {
+  reviews.sort((a, b) => {
+    return new Date(a.date) - new Date(b.date);
+  });
   const dates = reviews.map(review => review.date);
   const sentiments = reviews.map(review => review.sentiment);
 
@@ -37,7 +40,7 @@ const EDA = ({ reviews }) => {
           callback: function(value) {
             if (value === 1) return 'Positive';
             if (value === 0) return 'Neutral';
-            return 'Negative';
+            if (value === -1)return 'Negative';
           }
         }
       }

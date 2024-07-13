@@ -13,6 +13,7 @@
     "axios": "^1.7.2",
     "chart.js": "^4.4.3",
     "cors": "^2.8.5",
+    "npm-run-all": "^4.1.5",
     "pandas": "^0.0.3",
     "react": "^18.3.1",
     "react-chartjs-2": "^5.2.0",
@@ -25,7 +26,10 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start-react": "react-scripts start",
+    "start-python": "python ./backend/app.py",
+    "start-py2" : "python ./backend/pasttrends.py",
+    "start": "run-p start-react start-python start-py2",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
