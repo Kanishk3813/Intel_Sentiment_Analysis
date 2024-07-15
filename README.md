@@ -63,7 +63,7 @@ Review Analyzer is a powerful tool designed to help businesses understand custom
 
     - **Create a .env file** in the `api` folder with the following content:
         ```plaintext
-        SCRAPER_API_KEY=your-trial-scraperapi-key
+        SCRAPER_API_KEY='ccceef77d6a524862c0c12aa202ff659'
         ```
 
 3. **Frontend Setup**:
