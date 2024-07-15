@@ -1,70 +1,104 @@
-# Getting Started with Create React App
+# Review Analyzer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+Review Analyzer is a powerful tool designed to help businesses understand customer sentiments through automated analysis of reviews. This project leverages state-of-the-art NLP techniques to classify reviews, highlight key sentiments, generate word clouds, and visualize trends over time. 
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Automated Sentiment Analysis**: Utilizes the BERT model to classify reviews into positive, neutral, or negative categories. Additionally, it highlights the positive and negative parts of each review and provides improvement suggestions based on negative feedback.
+- **Word Cloud Generation**: Creates a visual representation of the most frequently mentioned words in the reviews, helping users quickly identify common themes and topics.
+- **Past Trends Visualization**: Graphical representation of review sentiments over different periods, allowing businesses to track changes in customer perception over time.
+- **CSV Upload**: Users can easily upload a CSV file containing reviews, enabling batch processing and analysis of large datasets.
+- **Downloadable Reports**: Analyzed data can be downloaded in JSON format, providing users with detailed reports for further analysis and record-keeping.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Frontend
+- React
+- Axios
+- Chart.js
 
-### `npm test`
+### Backend
+- Flask
+- Python
+- BERT (Hugging Face Transformers)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Data Handling
+- Pandas
+- Spacy
 
-### `npm run build`
+### Visualization
+- WordCloud
+- Matplotlib
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Deployment
+- Vercel (for frontend)
+- Backend server
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Training the Model
+- PyTorch
+- Transformers
+- TensorFlow
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Installation
 
-### `npm run eject`
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/KAMI3813/review_analyzer.git
+    cd review_analyzer
+    ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2. **Backend Setup**:
+    - Create a virtual environment and activate it:
+        ```bash
+        python -m venv venv
+        source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+        ```
+    - Install the required Python packages:
+        ```bash
+        pip install -r api/shared/requirements.txt
+        ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. **Frontend Setup**:
+    - Navigate to the root directory and install the necessary packages:
+        ```bash
+        npm install
+        ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Usage
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Running Locally
 
-## Learn More
+1. **Start the Backend**:
+    ```bash
+    npm run start-python
+    ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+2. **Start the Frontend**:
+    ```bash
+    npm start
+    ```
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- The frontend is deployed using Vercel, and the backend is hosted on a separate server.
 
-### `npm run build` fails to minify
+## Future Enhancements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **Enhanced Sentiment Analysis**: Support for multi-language and emotion detection.
+- **Real-Time Analysis**: Real-time review fetching and sentiment tracking.
+- **User Feedback Integration**: Feedback loop for improved accuracy.
+- **Advanced Visualization Tools**: Interactive and dynamic visualizations.
+- **Social Media Integration**: Track sentiments from social media platforms.
+- **Aspect-Based Sentiment Analysis**: Detailed aspect-based sentiment reports.
+- **Predictive Analysis**: Predict future trends based on historical data.
+
+## Contributing
+
+Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
