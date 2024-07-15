@@ -61,7 +61,7 @@ Review Analyzer is a powerful tool designed to help businesses understand custom
     - **Download the BERT model**:
         - Download the BERT model from [this Google Drive link](https://drive.google.com/file/d/14QfV6USLLzlzb13_T8kFuGi6OmZppft2/view?amp;usp=embed_facebook) and place it inside the `backend/bert_model` folder.
 
-    - **Create a .env file** in the `api` folder with the following content:
+    - **Create a .env file** in the `backend` folder with the following content:
         ```plaintext
         SCRAPER_API_KEY='ccceef77d6a524862c0c12aa202ff659'
         ```
