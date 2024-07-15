@@ -1,8 +1,8 @@
-# Review Analyzer
+# Intel Review Analyzer
 
 ## Overview
 
-Review Analyzer is a powerful tool designed to help businesses understand customer sentiments through automated analysis of reviews. This project leverages state-of-the-art NLP techniques to classify reviews, highlight key sentiments, generate word clouds, and visualize trends over time. **It works for both amazon and flipkart.**
+Intel Review Analyzer is a powerful tool designed to help businesses understand customer sentiments through automated analysis of reviews. This project leverages state-of-the-art NLP techniques to classify reviews, highlight key sentiments, generate word clouds, and visualize trends over time. **It works for both amazon and flipkart.**
 
 ## Features
 
@@ -89,9 +89,5 @@ Review Analyzer is a powerful tool designed to help businesses understand custom
 
 ## Contributing
 
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+Contributions are welcome!
 
