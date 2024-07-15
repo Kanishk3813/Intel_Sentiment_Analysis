@@ -45,7 +45,7 @@ Review Analyzer is a powerful tool designed to help businesses understand custom
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/KAMI3813/review_analyzer.git
+    git clone https://github.com/Kanishk3813/Intel_Sentiment_Analysis.git
     cd review_analyzer
     ```
 
