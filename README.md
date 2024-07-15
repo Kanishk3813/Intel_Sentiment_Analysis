@@ -59,7 +59,7 @@ Review Analyzer is a powerful tool designed to help businesses understand custom
         pip install -r api/shared/requirements.txt
         ```
     - **Download the BERT model**:
-        - Download the BERT model from [this Google Drive link](https://drive.google.com/file/d/14QfV6USLLzlzb13_T8kFuGi6OmZppft2/view?amp;usp=embed_facebook) and place it inside the `backend/BERT_model` folder.
+        - Download the BERT model from [this Google Drive link](https://drive.google.com/file/d/14QfV6USLLzlzb13_T8kFuGi6OmZppft2/view?amp;usp=embed_facebook) and place it inside the `backend/bert_model` folder.
 
     - **Create a .env file** in the `api` folder with the following content:
         ```plaintext
