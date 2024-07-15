@@ -32,10 +32,6 @@ Review Analyzer is a powerful tool designed to help businesses understand custom
 - WordCloud
 - Matplotlib
 
-### Deployment
-- Vercel (for frontend)
-- Backend server
-
 ### Training the Model
 - PyTorch
 - Transformers
