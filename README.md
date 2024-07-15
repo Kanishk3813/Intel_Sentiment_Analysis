@@ -70,12 +70,7 @@ Review Analyzer is a powerful tool designed to help businesses understand custom
 
 ### Running Locally
 
-1. **Start the Backend**:
-    ```bash
-    npm run start-python
-    ```
-
-2. **Start the Frontend**:
+1. **Start the application**:
     ```bash
     npm start
     ```
