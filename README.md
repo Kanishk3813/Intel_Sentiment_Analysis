@@ -58,6 +58,13 @@ Review Analyzer is a powerful tool designed to help businesses understand custom
         ```bash
         pip install -r api/shared/requirements.txt
         ```
+    - **Download the BERT model**:
+        - Download the BERT model from [this Google Drive link](https://drive.google.com/file/d/14QfV6USLLzlzb13_T8kFuGi6OmZppft2/view?amp;usp=embed_facebook) and place it inside the `api/shared/bert_model` folder.
+
+    - **Create a .env file** in the `api` folder with the following content:
+        ```plaintext
+        SCRAPER_API_KEY=your-trial-scraperapi-key
+        ```
 
 3. **Frontend Setup**:
     - Navigate to the root directory and install the necessary packages:
