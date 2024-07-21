@@ -77,6 +77,12 @@ Intel Review Analyzer is a powerful tool designed to help businesses understand 
     npm start
     ```
 
+## Demo
+
+<img src="public/home-gif.gif" alt="Intel Review Analyzer Demo" width="600">
+<img src="public/pastTrends.gif" alt="Intel Review Analyzer Demo" width="600">
+
+
 ## Future Enhancements
 
 - **Enhanced Sentiment Analysis**: Support for multi-language and emotion detection.
